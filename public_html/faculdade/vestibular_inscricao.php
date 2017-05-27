@@ -1,0 +1,1 @@
+<?phpif ($inscricoesAbertas) {    $smarty->assign('inscricao', $inscricoesAbertas);}$smarty->assign('title', 'Inscrição Vestibular');$smarty->display('vestibular_inscricao.tpl');

@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'Documentos Oficiais');$smarty->display('faculdade_documentos-oficiais.tpl');

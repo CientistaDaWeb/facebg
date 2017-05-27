@@ -1,0 +1,159 @@
+.box {
+    background: #d9dbea;
+}
+
+#div_site {
+    /*
+    background: url(_img/bg_site.jpg) top left repeat-y #FFF;
+    */
+    background: #FFF;
+}
+#div_menunav li a {
+    background: #eccd21;
+    color: #000;
+}
+
+#div_menunav li a:hover, #div_menunav li a.selecionado {
+    background: #606ca8;
+    color: #FFF;
+}
+#banner-topo{
+    height: 253px !important;
+}
+#banner_destaques {
+	width:763px;
+	height:60px;
+	margin-bottom:10px;
+	margin-top:5px;
+}
+
+#div_cnecvirtual {
+	background: #eccd21;
+        background: #FFC468;
+	overflow: hidden;
+	border: 3px solid #debd00;
+        border-color: #FFA73D;
+	color: #003;
+	padding: 5px 0px;
+}
+
+#div_cnecvirtual h2 {
+	background: #606CA8;
+}
+
+#div_cnecvirtual fieldset input {
+	background: #EDEDF1;
+}
+
+#div_cnecvirtual label {
+	margin-bottom:4px;
+	font-weight:normal;
+	font-size: 80%;
+}
+
+#div_cnecvirtual #bt_cnecvirtual {
+	background: #606CA8;
+	color: #FFF;
+}
+
+#div_cnecvirtual p {
+    magin-top: 10px;
+}
+
+#div_cnecvirtual a {
+	color: #00C;
+	margin-left: 270px;
+	font-size: 80%;
+}
+/*    */
+
+
+/* Definições da listagem de cursos da capa */
+#div_cursos {
+    margin-bottom: 4px;
+    overflow: hidden;
+}
+#div_cursos h3{
+    display: none;
+}
+
+#div_cursos #cursos {
+    background: url(_img/bg_cursos.jpg) top left no-repeat;
+    height: 235px;
+    overflow: hidden;
+}
+
+#div_cursos #cursos div {
+    float: left;
+    display: inline;
+}
+
+#div_cursos div ul li {
+    margin: 2px 0;
+    padding: 3px 0;
+}
+
+#div_cursos div ul li a {
+    color: #002a61;
+}
+
+#div_cursos ul {
+    padding-left: 65px;
+}
+
+#div_cursos #cursos #graduacao {
+    width: 245px;
+}
+
+#div_cursos #cursos #pos-graduacao {
+    width: 270px;
+}
+
+#div_cursos #cursos #extensao {
+    width: 220px;
+}
+/* Definições das noticias da capa */
+/* Definições das noticias - interna*/
+#curso-descricao {
+    background: #FFF;
+    padding: 5px;
+    width: 370px;
+    overflow: hidden;
+    float: left;
+    display: inline;
+}
+#curso-descricao p{
+    margin: 5px 0;
+}
+
+/* Definições dos cursos - interna */
+#curso-arquivos {
+    background: #FFF;
+    padding: 5px;
+    width: 350px;
+    overflow: hidden;
+    float: left;
+    display: inline;
+    margin-left: 10px;
+}
+
+#lista-cursos a {
+    margin: 0 5px;
+}
+
+#curso-fotos {
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+#curso-fotos img {
+    float: left;
+    margin: 0 5px;
+    display: inline;
+    border: 1px solid #FFF;
+}
+/* Definições do Rodapé */
+address {
+    background: #606ca8;
+    color: #FFF;
+}

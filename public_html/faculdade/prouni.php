@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'PROUNI');$smarty->display('prouni.tpl');

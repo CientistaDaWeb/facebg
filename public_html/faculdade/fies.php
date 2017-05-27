@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'FIES - Fundo de Financiamento Estudantil');$smarty->display('fies.tpl');

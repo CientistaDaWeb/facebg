@@ -1,0 +1,52 @@
+#vestibular20112{
+    background: url(images/vestibular/background.jpg) top left no-repeat #004693;
+    padding-top: 663px;
+}
+#vestibular20112 #cursos{
+    padding: 30px;
+    color: #FFF;
+    overflow: hidden;
+}
+#vestibular20112 #cursos a{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+#vestibular20112 #cursos ul{
+    float: left;
+    display: inline;
+    width: 234px;
+}
+#vestibular20112 #cursos ul ul{
+    float: none;
+}
+#vestibular20112 #cursos li{
+    list-style: disc;
+    list-style-position: inside;
+    margin-bottom: 10px;
+}
+#vestibular20112 #cursos li li{
+    list-style: square;
+    margin: 5px 0;
+    margin-left: 15px;
+}
+#informacoes{
+    clear: both;
+    background: #FBD94B;
+    padding: 30px;
+    color: #326385;
+}
+#informacoes #endereco{
+    margin-top: 40px;
+    clear: both;
+}
+#informacoes #logo{
+    float: left;
+    display: inline;
+    width: 248px;
+    height: 76px;
+    text-indent: -9000px;
+    background: url(images/vestibular/logo.png) top left no-repeat;
+    margin-right: 60px;
+
+}

@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'NAC - Núcleo Audiovisual da Faculdade Cenecista de Bento Gonçalves');$smarty->display('nac.tpl');

@@ -1,0 +1,1 @@
+<?phpif (is_file('posmedio_' . $baseURL[2] . '.php')) {    require_once('posmedio_' . $baseURL[2] . '.php');} else {    require_once('../404.php');}

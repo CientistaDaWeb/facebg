@@ -1,0 +1,932 @@
+ALUNOS FORMADOS					
+C¢digo	Nome do Aluno	E-mail	Curso	Ano Conclus∆o	
+402	ADAIR BORTOLINI	bortolini@todeschinisa.com.br	PD	2ß Sem./	2006
+694	ADAIR POLETTI	adairpoletto@hotmail.com	PD	1ß Sem./	2009
+1114	ADAO SILVANO ALVES DO SACRAMENTO	adaosacramento@yahoo.com.br	ADM	2ß Sem./	2010
+403	ADELAR MILTON MUSSKOPF		PD	2ß Sem./	2007
+705	ADELIO RAMOS DE CAMPOS	adelio.campos@irwin.com.br	ADM	1ß Sem./	2011
+489	ADELIR DE TONI	addetoni@yahoo.com.br	PD	1ß Sem./	2008
+723	ADELISE ZAPAROLI	adelise@capybas.com.br	RH	2ß Sem./	2008
+294	ADILSON ZILIO	adilsonzilio@ibest.com.br	MK	2ß Sem./	2007
+661	ADINEIA MARIA FACCIN	kuki@aromasepocoes.com.br	RH	2ß Sem./	2006
+644	ADRIANA ANTUNES DA SILVA	adryanaantunes@yahoo.com.br	ADM	2ß Sem./	2011
+761	ADRIANA CENCI	adrianarh@dallonder.com.br	RH	2ß Sem./	2007
+220	ADRIANA MARIA FELIMBERTI SCARDUELI	a.scardueli@brturbo.com.br	RH	2ß Sem./	2007
+405	ADRIANA PETROLI DOS SANTOS	petroli-adri@hotmail.com	ADM	2ß Sem./	2010
+170	ADRIANA SPERANZA LONGHI		RH	2ß Sem./	2005
+490	ADRIANE ALESSI	adrialessi@brturbo.com.br	MK	2ß Sem./	2009
+37	ADRIANE BIASUS	proacaors@terra.com.br	RH	2ß Sem./	2005
+1745	ADRIANE CRISTINA BIASOLI	adriane@enologia.org.br	MK	2ß Sem./	2008
+921	ADRIANE SBERSE REGINATO	financeirocristofoli@terra.com.br	ADM	Int. Ver∆o/	2012
+145	ADRIANE TREMARIN	marketing@fasolo.com.br	MK	1ß Sem./	2003
+221	ADRIANO MENEGOTTO	adriano_menegotto@yahoo.com.br	MK	1ß Sem./	2004
+1455	ADRIANO ROSSI	adrianorossi@sandrin.com.br	ADM	2ß Sem./	2011
+295	ADROALDO PILATI	pend-bgv@tbl.com.br	MK	2ß Sem./	2007
+835	AGREMAR LUIS DE SOUZA	agremar@rinaldi.com.br	PD	2ß Sem./	2008
+1458	ALAN CHARLEI BASSO	alan@dallacosta.com.br	ADM	2ß Sem./	2010
+902	ALANA CAMBRUZZI	alana@todeschini.com.br	MK	2ß Sem./	2008
+491	ALBERTO PETROLI	alberto_petroli@hotmail.com	MK	2ß Sem./	2008
+666	ALCINDO HEBERLE - Formado	"alcindo@moveisdossin.com.br; alcindo@bartzen.com.br"	PD	2ß Sem./	2009
+66	ALENCAR DACHERY	alecardachery@terra.com.br	MK	2ß Sem./	2004
+1116	ALESSANDRO BELLO DOS SANTOS	bellors@uol.com.br	ADM	2ß Sem./	2011
+1462	ALEXANDRA ANDREIS	alexandra_andreis@yahoo.com.br	RH	2ß Sem./	2009
+1658	ALEXANDRA MARIA OMIZZOLO	alexandraomizzolo@hotmail.com	ADM	2ß Sem./	2010
+1118	ALEXANDRE BASSANI	bassani.alexandre@gmail.com	ADM	2ß Sem./	2010
+2816	ALEXANDRE BEAL	alexbeall@hotmail.com	ADM	2ß Sem./	2011
+297	ALEXANDRE CIMADON	acimadon@ibest.com.br	MK	2ß Sem./	2007
+222	ALEXANDRE GIORDANI - Formado	giordani@italnet.com.br	MK	2ß Sem./	2004
+667	ALEXANDRE ROSOLEN		PD	1ß Sem./	2009
+1180	ALEXANDRE ZORZI	forcel_a@yahoo.com.br	AGRO	2ß Sem./	2009
+171	ALEXSANDER SANTOS TAVARES	alexsander.tavares@terra.com.br	RH	2ß Sem./	2004
+495	ALINE DALLA CORTE SIGNOR	caixa@bgveiculos.com.br	MK	2ß Sem./	2009
+863	ALINE DE OLIVEIRA	aline20donatti@gmail.com	ADM	2ß Sem./	2010
+1464	ALINE GRACIELI GRASSMANN	"alinegracieli@yahoo.com.br; aline_grassmann@sicredi.com.br"	ADM	2ß Sem./	2010
+1177	ALINE WINOSKI DE TONI	aline@magiform.com.br	PD	2ß Sem./	2009
+223	ALOISIO CARGNELUTTI	compras.monofrio@terra.com.br	MK	2ß Sem./	2006
+91	AMARILDO PEDRO ORSO	amarildo.rh@tacchini.com.br	RH	2ß Sem./	2004
+1119	ANA AMELIA VASCONCELOS BENINCA	ana@geremiaredutores.com.br	ADM	2ß Sem./	2010
+43	ANA DE CARVALHO SANTIN	p.antendimento@tacchini.com.br	RH	2ß Sem./	2004
+1739	ANA JULIA RENNER	anajuliar7@yahoo.com.br	MK	2ß Sem./	2009
+2038	ANA PAULA DE PARIS	anadeparis@yahoo.com.br	ADM	2ß Sem./	2010
+174	ANA PAULA FERRARI	anapaulaferrari2000@yahoo.com.br	RH	2ß Sem./	2005
+999	ANALAURA DE VASCONCELOS SOBRAL	analaura_sobral@yahoo.com.br	RH	2ß Sem./	2008
+2460	ANDERSON COLOGNESE	anderson@tramontina.net	PD	2ß Sem./	2008
+467	ANDRE ANTONIO VANASSI	avanassi@terra.com.br	MK	2ß Sem./	2008
+2136	ANDRê BORGES NUNES	borgesd2@yahoo.com.br	ADM	2ß Sem./	2011
+1470	ANDRE GRANDO CHENET	andrechenet@hotmail.com	ADM	Int. Ver∆o/	2011
+669	ANDRE PRESOTTO	laboratorio.np@tecnovin.com.br	PD	2ß Sem./	2008
+1182	ANDREA DO CARMO SITNIEVSKI	andrea.tac@tacchini.com.br	MK	2ß Sem./	2009
+499	ANDREA MENEGOTTO PALUDO	andreamenegotto@hotmail.com	AGRO	2ß Sem./	2008
+897	ANDREI ZANETTI	zanetinho@yahoo.com.br	AGRO	2ß Sem./	2009
+139	ANDREIA ELIS SOMENSI	andreia@grepar.com.br	MK	2ß Sem./	2006
+3142	ANDRêIA FLORESTINA BOTH DE OLIVEIRA	andreia_both@zipmail.com.br	ADM	2ß Sem./	2011
+727	ANDREIA MARIA DALMAS	andreiadalmas@yahoo.com.br	RH	2ß Sem./	2008
+293	ANDREIA PIVOTTO DAL PIZZOL	andreia.pivotto@duratex.com.br	ADM	2ß Sem./	2010
+2901	ANDRESA MORêS	andresa_mores@yahoo.com.br	ADM	2ß Sem./	2011
+1472	ANDREZA ODORCIK BRAGHINI	andreza@farina.com.br	ADM	2ß Sem./	2010
+298	ANDREZA PASSAIA - FORMADA	andreza.passaia@terra.com.br	RH	2ß Sem./	2006
+1473	ANE CRISTINA DA SILVA MARQUES	anemarques@zipmail.com.br	MK	2ß Sem./	2008
+635	ANELISE TERESINHA DE OLIVEIRA	aneliseoli@gmail.com	RH	2ß Sem./	2008
+1000	ANGELA VIVAN GIACOMELLO	angiacomello@italnet.com.br	RH	2ß Sem./	2009
+226	ANGELO HENRIQUE BERTUZZI	"angelo@cordelier.com.br; angelobertuzzi@uol.com.br"	MK	2ß Sem./	2005
+407	ANTONIO BETTONI		PD	2ß Sem./	2008
+1121	ANTONIO SCHENATTO	antonio@fasolo.com.br	PD	1ß Sem./	2009
+1122	ARI PIOVESANA JUNIOR	ari@italinea.com.br	ADM	2ß Sem./	2010
+227	ARLETE CRISTINA DE CESARO	arletedecesaro@yahoo.com.br	MK	2ß Sem./	2006
+393	ARLETE FORMENTINI CARLESSO	arletecarlesso@ibest.com.br	MK	2ß Sem./	2006
+149	ARLETE VIEL	arlete.viel@ibest.com.br	MK	2ß Sem./	2005
+503	AVELINO MENEGOTTO NETO	itacarec@terra.com.br	MK	2ß Sem./	2008
+1477	BEATRIZ NOSKOSKI	vipenpress@terra.com.br	ADM	2ß Sem./	2010
+1062	BENHUR CAMILLO	benhucamillo@yahoo.com.br	MK	2ß Sem./	2008
+409	BERNARDETE CAVALERI	prototipo@fasolo.com.br	PD	2ß Sem./	2007
+93	BERNARDETE PELEGRINI	berna@superapolo.com.br	RH	2ß Sem./	2004
+2821	CAMILA BALDI RODRIGUES	camiirodrigues@hotmail.com	ADM	1ß Sem./	2012
+1374	CAREN LARA FLACH MENDEL	caren.mendel@nicolini.com.br	ADM	2ß Sem./	2010
+1906	CARINA DE SOUZA DALLA CHIESA	"carinaemarcelo1@gmail.com; carina_dc@hotmail.com"	ADM	Int. Ver∆o/	2012
+928	CARINA PERIN	carinaperin@ibest.com.br	AGRO	2ß Sem./	2009
+2521	CARINE BOLZAN SALIN	carinebscomercial@hotmail.com	ADM	2ß Sem./	2011
+2353	CARLA ANT‚NIA FIORI NUNES	"fiori.nunes@bol.com.br; carla.fiori@santander.com.br"	ADM	Int. Ver∆o/	2012
+505	CARLA CIPRIANO	cacipri@terra.com.br	MK	2ß Sem./	2006
+301	CARLA CRISTINA IMPERATORI	carlacimperatori@hotmail.com.br	MK	2ß Sem./	2006
+168	CARLA RAMPANELLI RAZADOR		RH	2ß Sem./	2003
+1482	CARLA VEIGA	carlavc2308@yahoo.com.br	ADM	2ß Sem./	2010
+175	CARLA ZANUZ FACCHINI	carla@tramontina.net	RH	1ß Sem./	2007
+1730	CARLOS ADRIANO ILTCHENCO	iltchenco@yahoo.com.br	ADM	2ß Sem./	2010
+177	CARLOS ALBERTO PIVA	comercial.bgs@traspaulo.com.br	RH	2ß Sem./	2006
+832	CARLOS ALBERTO SIGNOR	casignor@hotmail.com	PD	2ß Sem./	2009
+1235	CARLOS ALEXANDRE MINUZZI	alexandre.minuzzi@dormertools.com	MK	2ß Sem./	2007
+506	CARMEN CASSOL		RH	2ß Sem./	2008
+308	CARMEN SALETE GLANERT		RH	2ß Sem./	2007
+119	CASSIANA MINUSCULLI PELEGRINI	cassiana.mp@hotmail.com	MK	2ß Sem./	2006
+1483	CASSIANO JOSE DE VARGAS	cassianoj@italinea.com.br	PD	2ß Sem./	2009
+410	CASSIO LONGO		MK	2ß Sem./	2006
+754	CATIA CAMINI	catia.rh@ricefer.com.br	RH	2ß Sem./	2007
+1994	CATIANE DE MATTOS	"catyane2005@hotmail.com; vendassp@pan.com.br"	ADM	2ß Sem./	2010
+219	CATIANE DUDA	catiane@italnet.com.br	RH	Int. Ver∆o/	2007
+2170	CêSAR LONGHI	clonghi80@gmail.com	ADM	2ß Sem./	2011
+463	CHALANA PESSALI	chalana@cenciseg.com.br	RH	2ß Sem./	2006
+2137	CHARLES PINHEIRO GUTIERRES	"charles2906@ibest.com.br;charlesgutierres@correios.com.br"	ADM	2ß Sem./	2011
+1936	CHARLINE MAIRA GOTARDO	charligotardo@yahoo.com.br	ADM	2ß Sem./	2010
+231	CINARA MANI TREVISAN	cinaratrevisan@yahoo.com.br	MK	2ß Sem./	2005
+1488	CINARA ZATTI MARCOLAN VEZENTINI	cinaravezentini@bol.com.br	ADM	2ß Sem./	2010
+411	CLACIR MARIO LOTTICI	clacirl@bertolini.com.br	PD	2ß Sem./	2007
+2378	CLAIR BALBINOTT	cbalbinott@yahoo.com.br	ADM	2ß Sem./	2010
+307	CLARICE BUSA		RH	2ß Sem./	2005
+1666	CLAUDETE RIGO	clau.rigo@ibest.com.br	ADM	1ß Sem./	2011
+972	CLAUDETE TREVISAN RIBEIRO	claudetetrevisan@bol.com.br	MK	2ß Sem./	2009
+894	CLAUDIA BERLANDA BORDIGNOM	claudiab@bertolini.com.br	MK	2ß Sem./	2009
+142	CLAUDIA CAPELLI	ambienci@italnet.com.br	MK	2ß Sem./	2004
+1186	CLµUDIA SALINI	"csalini@plastibento.com.br; csalini@akeo.com.br"	ADM	2ß Sem./	2011
+306	CLAUDIA SCALON	claudia.scalon@brturbo.com	RH	2ß Sem./	2006
+2451	CLAUDINêIA PLIZZARI	"claudineia@sca.com.br; claudineiaplizzari@yahoo.com.br"	ADM	2ß Sem./	2011
+18	CLAUDIOMIRO ROGGIA	rogia@bol.com.br	RH	2ß Sem./	2004
+509	CLAUDIR ANTONIO DUDA	claudirduda@yahoo.com.br	PD	2ß Sem./	2008
+1729	CLEBER TOCOLINI	clebert@lottinet.com.br	ADM	2ß Sem./	2011
+511	CLECI FEIL	cleci_fa1@hotmail.com	MK	2ß Sem./	2009
+167	CLECI SPERANZA DE TONI	clecisperanza@bol.com.br	RH	Int. Inv./	2003
+954	CLEIMAR LAGUNAS	cleimar@serrasulpneus.com.br	ADM	2ß Sem./	2011
+126	CLELIA ELISA GIORDANI	newsul@italnet.com.br	MK	2ß Sem./	2004
+512	CLENIO EBERTZ	clenioebertz@bol.com.br	ADM	2ß Sem./	2010
+277	CLEONICE MARIA TONIETTO		MK	2ß Sem./	2003
+166	CLOVIS DEMARCHI	carlosbarbosa@fgtas.rs.gov.br	MK	2ß Sem./	2005
+412	CLOVIS PANNO	clovis.panno@carraro.com.br	PD	2ß Sem./	2008
+274	CRISNA DACHERY		RH	1ß Sem./	2003
+1492	CRISTIANE ANDRADE CADAVAL	thianecad@yahoo.com.br	RH	2ß Sem./	2009
+970	CRISTIANE BASEGGIO	cristianeb@bertolini.com.br	ADM	2ß Sem./	2011
+926	CRISTIANE BUHLER	cristiane@ht-operacao.com.br	ADM	2ß Sem./	2010
+179	CRISTIANE DE SOUZA	souzacris@terra.com.br	RH	1ß Sem./	2005
+746	CRISTIANE DITADI TESSARO	cris@cer.cccc.camargocorrea.com.br	RH	2ß Sem./	2008
+2373	CRISTIANE SADOVNHIK ARÈZ	crisaruz@terra.com.br	ADM	2ß Sem./	2011
+759	CRISTIANE ZANDAVALLI	cristiane.valli@gmail.com	ADM	2ß Sem./	2010
+1127	CRISTIANO ALEX PIOVESAN	cristiano.piovesan@carraro.com.br	ADM	2ß Sem./	2010
+413	CRISTIANO BOTEGA	cristianobotega@hotmail.com	PD	2ß Sem./	2008
+1975	CRISTIANO LUIS BORTOLINI	cristiano@sofani.com.br	ADM	2ß Sem./	2010
+638	CRISTINA ZANETTI	cristinazanetti@ibest.com.br	RH	2ß Sem./	2009
+233	DAIAN ANTONIO DE PARIS	daian@madem.com.br	MK	2ß Sem./	2006
+20	DAIANA COELHO PAOLAZZI	daiana.coelho@carraro.com.br	RH	2ß Sem./	2003
+1188	DAIANE AGATTI	daianeagatti@yahoo.com.br	RH	2ß Sem./	2009
+1499	DAIANE BONISEGNA	daia_mr@yahoo.com.br	RH	2ß Sem./	2009
+1980	DAIANE BURATO	daianeburato@yahoo.com.br	ADM	2ß Sem./	2011
+2349	DAIANE CARRARO BATISTELO	daianecarraro@ibest.com.br	ADM	1ß Sem./	2011
+1704	DAIANE EITELVEN VESCOVI	daiane_vescovi@yahoo.com.br	RH	2ß Sem./	2009
+3407	DAIANE GABRIELE MACHADO	dada.gabriele1@gmail.com	ADM	2ß Sem./	2011
+1503	DAIANE ZAT	daiane.zat@hotmail.com	ADM	2ß Sem./	2010
+310	DALVI PEDRO GUARDA	dalvi@santamathilde.com.br	MK	2ß Sem./	2007
+56	DANEI MARCOS GOMES LAHM	danei@tecnotemas.com.br	RH	2ß Sem./	2004
+234	DANIEL BUSETTI		MK	1ß Sem./	2004
+235	DANIEL CAMERIN	danielcamerini@ibest.com.br	MK	2ß Sem./	2007
+857	DANIEL DO AMARANTE	daniell_amarante@yahoo.com.br	ADM	2ß Sem./	2010
+236	DANIEL PETROLI	dpetroli@bol.com.br	MK	2ß Sem./	2005
+180	DANIEL RIZZARDO	danielrizzardo@terra.com.br	RH	2ß Sem./	2007
+516	DANIEL TREVISAN	danielveranet2003@terra.com.br	RH	2ß Sem./	2006
+2751	DANIELA CENCI	danielacenci88@gmail.com	ADM	1ß Sem./	2012
+517	DANIELA DE CASTRO		RH	2ß Sem./	2007
+398	DANIELA GADDO	danis.land@ibest.com.br	RH	2ß Sem./	2004
+518	DANIELA GENI NEITZKE	daniela.nei@gmail.com.br	MK	2ß Sem./	2008
+1007	DANIELA GHELLERE	danielagh@pop.com.br	RH	2ß Sem./	2008
+519	DANIELA ROMAN		RH	2ß Sem./	2008
+706	DANIELA ROSINA MARKUS	drosina@hotmail.com	MK	2ß Sem./	2008
+520	DANIELA SALVINI	danisalvini@yahoo.com.br	ADM	2ß Sem./	2010
+2446	DANIELA STELLA	"danielastella@bol.com.br;danni-stl@hotmail.com"	ADM	2ß Sem./	2010
+135	DANIELLE ARIOLI	dani_arioli@yahoo.com.br	MK	1ß Sem./	2004
+521	DANIELLE DA SILVA GIORGI	misterdany2001@yahoo.com.br	MK	2ß Sem./	2007
+238	DARCI MENEGOTTO	dmenega@terra.com.br	MK	2ß Sem./	2004
+813	DARLEI SIMIONI	"maxxiartprojetos@hotmail.com; darlei.simioni@hotmail.com"	MK	2ß Sem./	2008
+2138	DµRLIN APARECIDA MAHL	darlinmahl@yahoo.com.br	ADM	2ß Sem./	2011
+899	DEISI CRISTINA PLISCA DOS SANTOS MASSOCHIN		ADM	2ß Sem./	2010
+977	DEISI GALIAZZI	dgaliazzi@hotmail.com	RH	1ß Sem./	2009
+2188	DEISY TA÷Z ZANATTA	deisytz@gmail.com	ADM	2ß Sem./	2011
+414	DEIVI LAZARON	deivi.lazaron@yahoo.com.br	ADM	2ß Sem./	2010
+46	DELCI FATIMA MENEGHETTI CASAGRANDE	delci@italnet.com.br	RH	1ß Sem./	2002
+2465	DENILSON NOGUEIRA CHAVES	denilsonncc@gmail.com	ADM	2ß Sem./	2010
+1509	DENISE CARLA RONCATO	denise_roncato@sicredi.com.br	RH	2ß Sem./	2008
+1069	DENISE DAMIAN	denydamian@ibest.com.br	ADM	2ß Sem./	2011
+181	DENISE GENARI	deniseg@bertolini.com.br	RH	2ß Sem./	2004
+1378	DENISE RAPKIEWICZ	denise.r@maais.net	RH	2ß Sem./	2009
+913	DENISE VALIATTI RIGONI	denise@isabela.com.br	RH	2ß Sem./	2008
+1511	DIANA FERREIRA GRECHI	diana.grechi@focco.com.br	MK	2ß Sem./	2009
+1917	DIANE BAVARESCO	dianebavaresco@yahoo.com.br	ADM	2ß Sem./	2010
+779	DIEGO JOSê RODRIGUES BORGES	diego@grepar.com.br	ADM	2ß Sem./	2011
+64	DIEGO PIFFER		RH	2ß Sem./	2004
+525	DIEGO POMPERMAYER	dpompermayer@terra.com.br	RH	1ß Sem./	2008
+1385	DIEGO SARTORI	dsrg2@bol.com.br	ADM	1ß Sem./	2010
+1513	DILMAR DE AZEVEDO	"manut@todeschinisa.com.br; dilmardeazevedo@yahoo.com.br"	ADM	2ß Sem./	2010
+21	DILNEA MATTOS MACHADO		RH	1ß Sem./	2002
+526	DIONE ZACCARON	dione@clinicalabormed.com	MK	2ß Sem./	2006
+1515	DOACIR ANGELO ROSSONI COPAT	doacir@hotmail.com	ADM	2ß Sem./	2010
+79	DOMINGOS MARCHIORI	domingos.marchiori@terra.com.br	RH	2ß Sem./	2005
+239	DULCIMAR JOSE SECCHI	dulcimarjs@bol.com.br	MK	2ß Sem./	2006
+240	EDEN JOSE DAL PONTE	eden@tds.com.br	PD	Int. Ver∆o/	2007
+1912	EDER CLATISTONI BUENO DOS SANTOS	ederbueno@farina.com.br	ADM	2ß Sem./	2010
+681	EDMAR SOMACAL	edetps@italnet.com.br	RH	2ß Sem./	2008
+945	EDSON CARLOS SOLDI		MK	2ß Sem./	2009
+527	EDSON CARLOS ZANDONA	ezando@terra.com.br	AGRO	2ß Sem./	2008
+241	EDSON DORO	edsondoro@terra.com.br	MK	2ß Sem./	2007
+3371	EDSON JOHANN	edsonj@comilonibus.com.br	ADM	2ß Sem./	2011
+1132	EDUARDO DA SILVA	eduardoesilva@yahoo.com.br	PD	2ß Sem./	2008
+127	EGIDIO BRUSCHI		MK	1ß Sem./	2006
+530	EGIDIO ESPEIORIN	egidio.nw@tecnovin.com.br	MK	2ß Sem./	2008
+313	ELAIDE TERESINHA PARISOTO TESSARO	vtessaro@terra.com.br	MK	2ß Sem./	2006
+3487	ELDRO FRARE	eldro.frare@craftla.com	ADM	2ß Sem./	2010
+318	ELIANE CAREGNATO	"ecaregnato@uol.com.br;elianec@betolini.com.br"	RH	2ß Sem./	2006
+317	ELIANE CRISTINA RIGONI	vendas4@pneusrinaldi.com.br	RH	2ß Sem./	2007
+1827	ELIANE MADALENA ROCHENBACH MODESTO		ADM	Int. Ver∆o/	2011
+1073	ELIANE MARIA KUMMER	emk@italnet.com.br	RH	2ß Sem./	2009
+243	ELIANE MARTA FRARE	emfrare@terra.com.br	MK	2ß Sem./	2004
+739	ELIANE PICCOLO DA ROSA	madruga-25@hotmail.com	RH	2ß Sem./	2009
+3408	ELIANE SCUSSEL	eliane_scussel@hotmail.com	ADM	2ß Sem./	2011
+417	ELIDA DURANTI DIAS	elidaddd@yahoo.com.br	RH	2ß Sem./	2007
+2190	ELISA CERIOTTI TRINDADE	elisactrindade@hotmail.com	ADM	2ß Sem./	2010
+789	ELISABETE HAAS	elisbete_haas@yahoo.com.br	MK	2ß Sem./	2009
+1521	ELISABETE RIBEIRO DE SOUZA	apoio@sandrin.com.br	ADM	2ß Sem./	2011
+1522	ELISANDRA DE MATOS	elisandra@italnet.com.br	ADM	2ß Sem./	2011
+2134	ELISANGELA CRISTINA SIMON	crisecs@hotmail.com	ADM	1ß Sem./	2011
+319	ELISANGELA FRONZA PIOVESANA		RH	2ß Sem./	2006
+1009	ELIZANDRA GRAPIGLIA	elizandra@unicamoveis.com.br	RH	2ß Sem./	2009
+713	ELIZANDRA LAIKOWSKI	"elizandra.laikowski@isabela.com.br; elizandra_laik@yahoo.com"	RH	2ß Sem./	2007
+534	ELOI PARISOTTO	-	AGRO	2ß Sem./	2008
+3103	ELTON SINIGAGLIA	elton.sinigaglia@yahoo.com.br	ADM	2ß Sem./	2011
+70	ELVIO ANTONIO LAVANDOSKI	elvio@farina.com.br	RH	2ß Sem./	2006
+1525	EMERSON SGARBI	emersonsgarbi@ibest.com.br	ADM	2ß Sem./	2010
+869	EMERSON VEIMAR BRANDAO ANIOLA	emerson.aniola@carraro.com.br	PD	1ß Sem./	2009
+129	ENELITE MARIA BORTOLINI	enelite@ceforbg.com.br	MK	2ß Sem./	2003
+45	ENILVIA FRANZ DE LIMA	enilvia@sulbras.com.br	RH	2ß Sem./	2004
+1526	ENIO ANTONIO ARIOTTI	enioariotti@hotmail.com	ADM	2ß Sem./	2011
+458	ERNANI MICHELON	ernanim@bertolini.com.br	PD	2ß Sem./	2007
+1133	EUDES BUSATO	eudes@telasul.com.br	RH	2ß Sem./	2009
+153	EVANDRA MARINELLO	"marinelloevandra@hotmail.com; rh@piva-rs.com.br"	RH	1ß Sem./	2003
+1376	EVANDRO ANTONIO SIMIONATO	evandrosimionato@yahoo.com.br	ADM	1ß Sem./	2012
+873	EVANDRO ARALDI	evandroaraldi@ig.com.br	PD	2ß Sem./	2007
+1194	EVANDRO BOMBANA	ebombana@uol.com.br	ADM	2ß Sem./	2011
+535	EVANDRO DE BONA	evandrodebona@terra.com.br	MK	2ß Sem./	2008
+1196	EVELISE DEMARCO	evelise.demarco@yahoo.com.br	ADM	2ß Sem./	2010
+2128	EVELYN RODRIGUES ZILIOTTO	"evelrz@yahoo.com.br;artefinal@happymelecao.com.br"	ADM	2ß Sem./	2011
+396	FABIANA CITOLIN	fabiana@jmarcante.com.br	RH	2ß Sem./	2004
+901	FABIANA PELIZZARI SBERSE	fabiana.sesmt@tacchini.com.br	RH	2ß Sem./	2008
+150	FABIANE LOURDES GASPARIN		MK	2ß Sem./	2004
+248	FABIANE PANIZZI RIZZARDO	pedidos@fasolo.com.br	MK	2ß Sem./	2005
+891	FABIANO BRUN	"fabi.brun@zipmail.com.br; comercial2@domcandido.com.br"	AGRO	2ß Sem./	2008
+1370	FABIANO JOSE CENCI	fabiano@unicamoveis.com.br	PD	2ß Sem./	2009
+541	FABIO MENGARDA	fabio@todeschinisa.com.br	MK	2ß Sem./	2007
+401	FABIOLA MARTINS	novadelli@italnet.com.br	MK	2ß Sem./	2004
+1199	FABIOLA PETROLI	"cobrancars@bentobrasil.com.br; fabipetroli@gmail.com"	RH	2ß Sem./	2009
+1900	FABRICIO BERNARDINI	fabriciobernardini@hotmail.com	MK	2ß Sem./	2008
+321	FABRICIO PETROLI	fabricio.petroli@carraro.com.br	RH	2ß Sem./	2007
+1077	FELIPE ZIN ORO	felipezinoro@hotmail.com	MK	2ß Sem./	2009
+322	FELIX BEAL	ffmateriaisdeconstrucao@yahoo.com.br	MK	2ß Sem./	2007
+1953	FERNANDA APARECIDA PRESTES	fernanda_fin@tacchini.com.br	ADM	2ß Sem./	2011
+51	FERNANDA CAMINI	nandac@lottinet.com.br	RH	2ß Sem./	2004
+1977	FERNANDA CAVALLI	ferzinhacavalli@yahoo.com.br	ADM	2ß Sem./	2011
+543	FERNANDA DONATTI	fer.d@ibest.com.br	RH	2ß Sem./	2006
+184	FERNANDA FIN - Formada	fernanda@euroamerica.ind.br	RH	2ß Sem./	2007
+420	FERNANDA SBERSE MASSOCO	f.sberse@isabela.com.br	PD	2ß Sem./	2005
+800	FERNANDA SEBBEN	nanda.cebben@brturbo.com.br	MK	2ß Sem./	2007
+320	FERNANDO VILLA	fernando@multimoveis.com.br	RH	2ß Sem./	2008
+105	FLAVIA FERRARI	lulufer@terra.com.br	MK	2ß Sem./	2005
+1532	FLµVIO JO«O FAêS	fjf_faes@hotmail.com	ADM	1ß Sem./	2012
+28	FLAVIO ROBERTO VIANA RINQUES	rinkes@bol.com.br	RH	2ß Sem./	2003
+183	FRANCELI ORTENILA WEBER	franwbc@gmail.com	RH	Int. Ver∆o/	2008
+1533	FRANCIELE CARRARO	francielecarraro@yahoo.com.br	ADM	2ß Sem./	2010
+1534	FRANCIELE JOSE	fran.nett@hotmail.com	ADM	2ß Sem./	2010
+1974	FRANCIELE RODRIGUES DA SILVA	franci_meg@yahoo.com.br	ADM	2ß Sem./	2010
+1011	FRANCIELE TAIS CIGOLINI	franciele@serragaucha.com	ADM	2ß Sem./	2010
+1535	FRANCIELE TOGNON	francitog@gmail.com	RH	2ß Sem./	2009
+68	FRANCIELLE SCUSSEL CONSTANTIN	francielle.sc@hotmail.com	RH	2ß Sem./	2005
+247	FRANCISCO CAMPOS DE LUCENA	francisco@galvanotek.com.br	MK	1ß Sem./	2004
+1538	GEISIANE DALL ASTA	geisianedallasta@ibest.com.br	ADM	2ß Sem./	2010
+1136	GENUIR SOBIERAI	genuirsobierai@yahoo.com.br	PD	2ß Sem./	2009
+279	GERSON FRAPORTI		RH	2ß Sem./	2004
+186	GILBERTO ANTONIO CASTAGNETTI	giancast@ibest.com.br	RH	2ß Sem./	2009
+23	GILBERTO BERTARELLO	gioberto@terra.com.br	RH	2ß Sem./	2003
+389	GILBERTO BRAULIO RIGONI	gmrigoni@brturbo.com.br	RH	2ß Sem./	2006
+1137	GILBERTO FOSSA	gilberto.fossa@hotmail.com	PD	2ß Sem./	2009
+1140	GILMAR LOTI	gilmar.loti@ibest.com.br	ADM	2ß Sem./	2010
+134	GILMAR LUCHESE	gilmarl@oknet.com.br	MK	1ß Sem./	2004
+915	GILMAR SCHNEIDER	gilmar@todeschinisa.com.br	PD	2ß Sem./	2009
+2141	GIOVANA BOMPARD	giovana.b@terra.com.br	RH	1ß Sem./	2007
+548	GIOVANA COSTA	gio1604@hotmail.com	RH	2ß Sem./	2009
+984	GIOVANE BIASOTTO	giovane@lottinet.com.br	RH	2ß Sem./	2007
+482	GIOVANI CICHELERO	giovanic@lottinet.com.br	PD	1ß Sem./	2008
+702	GIOVANI NOLASCO MANCINI	giovani@santaluiza.tur.br	MK	2ß Sem./	2008
+742	GIOVANNA SOLDI	soldigio@hotmail.com	RH	2ß Sem./	2008
+549	GISELE DA CRUZ	gisele@realassessoria.com	RH	2ß Sem./	2006
+249	GISELE GHENO	jbg@italnet.com.br	MK	2ß Sem./	2004
+330	GISSELA MORELLO ASCHI		RH	2ß Sem./	2005
+2792	GLAUCIA CAPELARI	glauciacapelari@ibest.com.br	ADM	2ß Sem./	2011
+646	GRACIELA SOMENSI	gramensi@hotmail.com	AGRO	2ß Sem./	2009
+188	GRAZIELA DALPIZZOL	gradija@italnet.com.br	RH	2ß Sem./	2004
+67	GRAZIELA GIROTO	graziela.girotto@bol.com.br	RH	2ß Sem./	2005
+63	GRAZIELA PEDROTTI PERTILE		RH	1ß Sem./	2003
+1546	GRAZIELA PICCININ	grazypic@ibest.com.br	PD	2ß Sem./	2009
+952	GRAZIELLA VIEIRA BORKS	graz.vieira@zipmail.com.br	MK	2ß Sem./	2008
+325	GREYSE TESSARI	greysetessari@yahoo.com.br	MK	2ß Sem./	2007
+1547	GUSTAVO BEAL RINALDI	gustavorinaldi@italnet.com.br	ADM	2ß Sem./	2011
+801	GUSTAVO DE MELLO	gustavofiat@yahoo.com.br	MK	2ß Sem./	2009
+3122	GUSTAVO GRAPILHA	"gustavo_grapilha@yahoo.com.br; gustavo.grapilha@coza.com.br"	ADM	2ß Sem./	2011
+550	GUSTAVO SONZA	gustavo.sonza@oknet.com.br	PD	1ß Sem./	2008
+1548	HELEN RENATA GARBIN CAGLIARI	helen@italinea.com.br	ADM	2ß Sem./	2011
+85	HELENA RIBOLDI PERTILE		RH	2ß Sem./	2005
+113	HELENISSA PERES	helenissa@hotmail.com	MK	1ß Sem./	2003
+189	HELOISA MARIA GRESPAN	heloisa-maria42@hotmail.com	RH	2ß Sem./	2004
+286	IDIANE MARI COSTA	idiane@lottinet.com.br	RH	2ß Sem./	2004
+128	ILIANE MARIA CECCON TONDO	ilianect@hotmail.com	MK	2ß Sem./	2005
+793	INACIR ANA SPESSATTO KLEINOWSKI	inacirsk@yahoo.com.br	ADM	2ß Sem./	2010
+1550	INARA PELIZZER	"inara@todeschinisa.com.br; inara@todeschini.com.br"	RH	2ß Sem./	2009
+663	IN“S CARLESSO CAPELARI	inescc1@hotmail.com	ADM	Int. Ver∆o/	2012
+861	IONE MARCIA COSTA	ione2108@hotmail.com	ADM	1ß Sem./	2012
+1391	ISABEL CRISTINA GARBIN	isabel@rasador.com.br  (11) 4191-8664 ou 8665	RH	2ß Sem./	2008
+81	ISALETE MARIA DOMANN		RH	2ß Sem./	2004
+1937	ISMAEL FERNANDO PICOLOTTO	picolotto88@yahoo.com.br	ADM	2ß Sem./	2011
+333	IVA MORESCO	financeiro@dalmobile.com.br	MK	2ß Sem./	2007
+554	IVAN BERTARELLO	ivan.b@terra.com.br	MK	2ß Sem./	2008
+332	IVAN SERGIO LUCHESE	isluchese@terra.com.br	MK	Int. Ver∆o/	2007
+190	IVAN ZARDO	zardoirvin@italnet.com.br	RH	2ß Sem./	2005
+191	IVANETE BERNARDI	iva.bernardi@bol.com.br	RH	2ß Sem./	2005
+647	IVANETE DETONI	ivanetedetoni@pop.com.br	RH	2ß Sem./	2008
+1206	IVANETE MICHELLI	ivanetemichelli@yahoo.com.br	AGRO	2ß Sem./	2009
+423	IVANIR CARLOS BARANOSKI	ivanir@cenciseg.com.br	MK	2ß Sem./	2009
+1081	IVANOR ANTONIO FERRO	iferro@italinea.com.br	MK	Int. Ver∆o/	2007
+400	IVONE FIORIN	ivonehz@ig.com.br	MK	2ß Sem./	2007
+556	JAIR MODESTO		ADM	1ß Sem./	2010
+8	JAIRO ANTONIO BENEDETTI	toval@italnet.com.br	RH	2ß Sem./	2005
+1144	JAIRO MANICA	"jairo.manica@bol.com.br; jairo@todeschinisa.com.br"	ADM	2ß Sem./	2010
+109	JANA BRUN NALIN	jana.b.n@bol.com.br	MK	2ß Sem./	2004
+1017	JANAINA BORTOLON	janainab@pop.com.br	RH	2ß Sem./	2008
+1018	JANAINA FRAMIA	jframia@yahoo.com.br	RH	2ß Sem./	2009
+559	JANETE CANZI GOBBATO	janete@tramontina.net	RH	2ß Sem./	2007
+11	JANETE MISTURINI BONATTO	janete@cic-caxias.com.br	RH	2ß Sem./	2004
+154	JANETE ZAGO	jane@tramontina.net	RH	2ß Sem./	2005
+2032	JANICE BASTIANEL	janicebastianel@yahoo.com.br	ADM	2ß Sem./	2011
+1387	JAQUELINE COMIN	ja.comin@hotmail.com	MK	2ß Sem./	2008
+130	JAQUELINE FORNASIER - Formada		MK	2ß Sem./	2005
+2077	JêSSICA PIGOZZO		ADM	Int. Ver∆o/	2012
+1384	JOANA MARIA RIGONI	joana@radax.com.br	RH	2ß Sem./	2008
+1553	JOAO BATISTA PEDRASSANI	joaogremista@gmail.com	ADM	2ß Sem./	2010
+132	JOAO CARLOS CAPELLI RIBEIRO		MK	2ß Sem./	2004
+870	JOAO DILAMAR MICHELIM LOPES		PD	1ß Sem./	2009
+562	JOAO FERNANDO BALDASSO	joaobaldasso@yahoo.com.br	PD	2ß Sem./	2007
+282	JOAO HELENO COGORNI	joaoheleno@zipmail.com.br	MK	2ß Sem./	2004
+854	JOAO MANOEL VEBER		ADM	1ß Sem./	2010
+101	JOCELIA BEATRIZ FIN	contas.tac@tacchini.com.br	RH	2ß Sem./	2004
+671	JOEL ANTONIO CAGOL	joelbg@globo.com.br	MK	2ß Sem./	2007
+460	JOEL ROSA	joel@cicbg.com.br	PD	2ß Sem./	2005
+3398	JOEL SIGNOR	industrial@teclinemoveis.com.br	ADM	2ß Sem./	2011
+2893	JONES BERTUZZO	enter.dl@hotmail.com,madesul.rs@hotmail.com	ADM	2ß Sem./	2011
+2787	JORDANA ALVES	eujordana@yahoo.com.br	ADM	2ß Sem./	2011
+427	JORGE DOS SANTOS CAPILHEIRA	jcapilheira@isabela.com.br	PD	2ß Sem./	2007
+1557	JORGE SANTO LANDO	jl.jorge.lando@gmail.com	ADM	2ß Sem./	2010
+9	JOSE CARLOS ROSSATO CANABARRO	canab@terra.com.br	RH	1ß Sem./	2002
+27	JOVANIA BERTOLINI	jovania@oknet.com.br	RH	Int. Ver∆o/	2004
+193	JOVERCI JORGE GIORDANI	giordany@terra.com.br	RH	2ß Sem./	2007
+250	JUCELIA DE MELLO CRISTOFOLI	juceliamcristofoli@yahoo.com.br	MK	2ß Sem./	2007
+340	JUCILEIDE PERSICO TONIOLO	toniolo@artesano.com.br	RH	2ß Sem./	2006
+75	JUCIMAR SOTILLI	juci8@ibest.com.br	MK	2ß Sem./	2006
+2892	JUCIMARA MOCELIN	jucimaramocelin@gmail.com	ADM	Int. Ver∆o/	2012
+159	JULIANA FAVARETTO		RH	2ß Sem./	2006
+1086	JULIANA FRAMIA	julianaframia@yahoo.com.br	ADM	2ß Sem./	2010
+3411	JULIANA MARIA BENDO	juliben@hotmail.com	ADM	2ß Sem./	2011
+1558	JULIANA MARQUES	jujubabg@hotmail.com	ADM	2ß Sem./	2010
+1559	JULIANA TREVISAN	juliana@nre.com.br	ADM	2ß Sem./	2010
+1022	JULIANA VIGO	juli.vg@ibest.com.br	RH	2ß Sem./	2008
+1560	JULIANE GRAZIELE FRITSCH	juliane@jmarcante.com.br	RH	2ß Sem./	2009
+19	JULIANO FERRARI		RH	2ß Sem./	2005
+338	JULIANO MENEGAZ	jmenegaz@rge-rs.com.br	MK	2ß Sem./	2004
+1680	JULIANO RIBEIRO	jrcefet@ibest.com.br	ADM	1ß Sem./	2011
+17	JURACI NUNES DORNELLES	jura.nd@terra.com.br	RH	Int. Inv./	2003
+973	JUSSARA ANTUNES DOS SANTOS	mvjussara@ibest.com.br	MK	1ß Sem./	2009
+1088	JUSSARA SANTOS DE BORBA	jusborba@ibest.com.br	MK	2ß Sem./	2009
+343	JUSSARA TERESINHA CEGUETO	jussa.c@zipmail.com.br	RH	Int. Inv./	2007
+938	JUSSARA ZILIO	"ju_zilio@yhaoo.com.br ; jussara.zilio@coopsantaclara.com.br"	RH	2ß Sem./	2009
+347	KALIANDRA GABARDO	kaliandra@todeschinisa.com.br	RH	2ß Sem./	2006
+1728	KARIANE KELI DA SILVA KOLLING	karianekeli@hotmail.com	ADM	2ß Sem./	2010
+1563	KARINA REIS DOS SANTOS	karina_salsifufu@hotmail.com	ADM	2ß Sem./	2011
+572	KARLA INGRID MACHADO CRESPIN	karlacrespin@yahoo.com.br	MK	2ß Sem./	2008
+820	KELEN DAMIANI	kelen_damiani@yahoo.com.br	MK	2ß Sem./	2009
+2227	KELEN RECHE	kelenreche@gmail.com	ADM	2ß Sem./	2010
+1565	KELLEN GREGGIO	bggarantia@florauto.com.br	ADM	2ß Sem./	2011
+1915	KELLY NUNCIO	kelly.nuncio@cinex.com.br	ADM	2ß Sem./	2010
+1830	KELLY PIGOZZO	kelly@todeschinisa.com.br	RH	2ß Sem./	2009
+994	KLEITON PEREIRA DA SILVA	kleitonps@uol.com.br	MK	2ß Sem./	2008
+686	LAIS BELMONTE	lais.belmonte@coopsantaclara.com.br	ADM	Int. Ver∆o/	2011
+1026	LARISSA DANIELA SPASIN	llary_d@yahoo.com.br	RH	2ß Sem./	2007
+862	LAURI ZORTEA		PD	2ß Sem./	2008
+1737	LEANDRO BENVENUTTI	leabenvenutti@italnet.com.br	ADM	2ß Sem./	2010
+2039	LEANDRO CONTI ROSSATTO	le_becks@hotmail.com	ADM	2ß Sem./	2011
+272	LEANDRO MARCIO BENINI	leandro.benini@lojasolar.com.br	MK	2ß Sem./	2007
+2144	LEANDRO MARCOS ALESSIO	leandro@italinea.com.br	ADM	2ß Sem./	2010
+817	LEANDRO MASUTTI VIEIRA	leo733@bol.com.br	MK	2ß Sem./	2006
+1382	LEANDRO MORAES PINHEIRO	lpinheiro04@yahoo.com.br	MK	2ß Sem./	2009
+796	LEANDRO PAULO CELSO	pirandel@terra.com.br	MK	2ß Sem./	2009
+576	LEANDRO RIZZARDO MOCELIN	leandrorizzardo@yahoo.com.br	MK	2ß Sem./	2008
+155	LEDA MARIA BENINI MESTURINI	leda@lottinet.com.br	RH	1ß Sem./	2003
+735	LEIA MARILU DALLA VALLE LAZZARINI	leia.dallavalle@hotmail.com	RH	2ß Sem./	2008
+352	LEIDIANA FERRARI BASSO	leidiana.F.B@ibest.com.br	RH	2ß Sem./	2006
+197	LEIZA BALBINOT LISBOA	leiza@concresul.com.br	RH	2ß Sem./	2008
+673	LEOMARA GAZOLI	leomaragazoli@yahoo.com.br	MK	2ß Sem./	2007
+60	LEONARDO FONTANELLA	leonardofontanella@italnet.com	RH	1ß Sem./	2003
+475	LEONIA BESSEGA HEBERLE		PD	2ß Sem./	2008
+276	LERNO OTO SPERLING		MK	2ß Sem./	2005
+1389	LETICIA BORTOLINI POMPERMAYER	letipomper@terra.com.br	ADM	2ß Sem./	2010
+577	LETICIA DIAS MONTIPO	leti_dm@hotmail.com	MK	2ß Sem./	2006
+1571	LETICIA MASSIGNAM	leticia.asterh@hotmail.com	ADM	2ß Sem./	2010
+716	LETICIA MENEGHINI RUI	leticia.rui@ig.com.br	RH	2ß Sem./	2009
+351	LIANE MIKOLASKI	liane@tondo.com.br	RH	2ß Sem./	2006
+392	LIANE PELEGRINI FORNARI	lianepf@terra.com.br	RH	2ß Sem./	2004
+198	LICIANE SALETE KEHL	liciane@tramontina.net	RH	2ß Sem./	2007
+107	LIDIANE TOMASI (FORMADA)	lidi@oknet.com.br	MK	2ß Sem./	2004
+935	LIDIANE TRINTINAGLIA	ltrintinaglia@hotmail.com	ADM	1ß Sem./	2009
+688	LILIAN CARLA MOSSI	"movezki@gmail.com; lilimossi@yahoo.com.br"	ADM	2ß Sem./	2011
+39	LILIAN CRISTINA FAE	lilian_fae@hotmail.com	RH	2ß Sem./	2006
+57	LILIAN DA SILVEIRA		RH	2ß Sem./	2003
+724	LILIAN KRINDGES	lilianzortea@yahoo.com.br	ADM	2ß Sem./	2010
+1573	LILIAN MARIA MENEGHETTI LOPES	lilianl@evviva.com.br	ADM	2ß Sem./	2011
+1028	LILIANE PELEGRINI VAIRICH	rh@imsb.com.br	RH	2ß Sem./	2008
+578	LINDOMAR CECILIO DA SILVEIRA	lindodasilveira@pop.com.br	RH	2ß Sem./	2009
+349	LISANDRA BRESIANI	treinamento@plastibento.com.br	RH	2ß Sem./	2006
+355	LISIANE CATIA POZZA	casa.das.cortinas@terra.com.br	MK	2ß Sem./	2007
+1175	LISIANE MATTEI	metalurgicabagatini@metalurgicabagatini.com.br	ADM	2ß Sem./	2011
+1960	LIVIANE PEDROTTI SAUGO	livianepedrotti@hotmail.com	ADM	2ß Sem./	2011
+61	LOEMIR DE PARIS	loemir@italnet.com.br	RH	2ß Sem./	2004
+161	LOERI SALETE DE CARVALHO	dygittare@italnet.com.br	RH	2ß Sem./	2005
+354	LOIRI DALMAS	fdalmas@terra.com.br	MK	2ß Sem./	2006
+200	LOURDES MIKOASKI UBERTTI		RH	2ß Sem./	2007
+1944	LUAN SGANZERLA	luan_sganzerla@sicredi.com.br	ADM	1ß Sem./	2011
+2894	LUCAS DE MENEZES DA PAIX«O	lucas.m.paixao@hotmail.com	ADM	2ß Sem./	2011
+809	LUCELI REGINA ROSSATTO	luceli@cordelier.com.br	MK	2ß Sem./	2008
+431	LUCIANA DEMARCHI BASSANI	vendas@nichelplast.com.br	RH	2ß Sem./	2008
+115	LUCIANA FABRICIA STUDER	lstuder@rge-rs.com.br	MK	2ß Sem./	2007
+38	LUCIANA FELIPPE CONSOLI	lucifecon@yahoo.com.br	MK	2ß Sem./	2009
+199	LUCIANA ORSO	makerduz@italnet.com.br	RH	2ß Sem./	2006
+721	LUCIANE CASAGRANDE	lu.c.c@ibest.com.br	RH	2ß Sem./	2008
+353	LUCIANE DE MARI	luciane@transportessantoantonio.com.br	RH	2ß Sem./	2006
+4	LUCIANE FERRARI	lulufer@terra.com.br	RH	2ß Sem./	2003
+2078	LUCIANE MARIANI	lu.bg@hotmail.com	ADM	2ß Sem./	2011
+806	LUCIANO PRESOTTO	luciano@telasul.com.br	MK	2ß Sem./	2009
+1576	LUCIANO ROBERTO DA SILVA	luciano7th@yahoo.com.br	ADM	2ß Sem./	2011
+94	LUCIARA BARBARA TRUCCOLO	luciaratruccolo@ibest.com.br	RH	2ß Sem./	2006
+1934	LUCIMARA FRONZA	lululf@gmail.com	ADM	2ß Sem./	2011
+433	LUCIO VERANI DE MELO LANES	luciol@bertolini.com.br	PD	2ß Sem./	2007
+1096	LUIS ARMELINDO VALDUGA	luisvalduga@hotmail.com	ADM	Int. Ver∆o/	2011
+1579	LUIZ CARLOS FRAPORTI	luiz.f@unicamoveis.com.br	MK	2ß Sem./	2009
+82	MABEL DE FATIMA DE FREITAS	mabel@italnet.com.br	RH	2ß Sem./	2005
+833	MACIEL DE TONI	"macieldetoni@yahoo.com.br; macielt@ciee-rs.org.br"	RH	2ß Sem./	2009
+783	MAGALI ROMIO	magali-romio@yahoo.com.br	ADM	2ß Sem./	2010
+961	MAGDA DE TONI	rh@brvmoveis.com.br	RH	2ß Sem./	2006
+201	MAIKEL MISSIAGGIA		AGRO	2ß Sem./	2006
+920	MAKIELE TITTON	makiele@ferrarivalvulas.com.br	AGRO	2ß Sem./	2008
+361	MARA APARECIDA VISENTIN MISSIAGGIA		AGRO	2ß Sem./	2006
+974	MARA PASQUALI	mara.pasqualli@gmail.com	ADM	2ß Sem./	2010
+1245	MARCELI WEBER	abrmarceli@portalnet.com.br	MK	2ß Sem./	2008
+1582	MARCELO CONZATTI	marceloconzatti@yahoo.com.br	MK	2ß Sem./	2009
+253	MARCELO PIZZATTO TOMASI		MK	1ß Sem./	2007
+283	MARCIA BETTIOL	marcia_2929@hotmail.com	MK	2ß Sem./	2007
+363	MARCIA MARIA GUTH	marcia@tlusturismo.com.br	RH	2ß Sem./	2006
+2240	MµRCIA MARIA TIBOLLA ZAGONEL	marcia.tibolla@ibest.com.br	ADM	1ß Sem./	2012
+649	MARCIANE ZONTA	marci@alacorretora.com.br	MK	2ß Sem./	2008
+480	MARCILDA PARISOTTO	marcildap@bol.com.br	RH	2ß Sem./	2007
+435	MARCIO ADEMIR KOWALSKI	marciok@bertolini.com.br	PD	2ß Sem./	2007
+69	MARCIO BOEIRA NEPOMUCENO	bigolinveiculos@bol.com.br	RH	2ß Sem./	2007
+117	MARCIO JOSE FANTIN	marciojf@terra.com.br	MK	2ß Sem./	2004
+454	MARCIO KOLTZ	marciokoltz@gmail.com	PD	1ß Sem./	2007
+436	MARCIO THUMS		PD	2ß Sem./	2008
+979	MARCOS ALEXANDRE RECH	marcoalexrech@bol.com.br	AGRO	1ß Sem./	2007
+587	MARCOS ANTONIO ANTUNES DA SILVA	marcos.silva@carraro.com.br	PD	1ß Sem./	2009
+812	MARCOS AURELIO MATTIA	m.mattia@terra.com.br	ADM	1ß Sem./	2011
+650	MARCOS LARROYD		MK	2ß Sem./	2009
+2808	MARCOS ROBERTO PEDROSO E SILVA	"marcos.pcp@dalmobile.com.br; mpedroso@gmail.com"	ADM	2ß Sem./	2011
+589	MARCOS WIPRICH		PD	2ß Sem./	2008
+1734	MARIA ALVANIRA LUCAS OLIVEIRA	alvanira@isabela.com.br	RH	Int. Ver∆o/	2008
+2011	MARIA CLECI DE MELO	mcmello@isabela.com.br	ADM	2ß Sem./	2010
+35	MARIA DE LOURDES DA' ROLT JOAQUIM		RH	1ß Sem./	2002
+360	MARIA DE NAZARE MELO EVANGELISTA	maryamaghi@yahoo.com.br	RH	2ß Sem./	2006
+689	MARIA INEZ GALANTE	mariaines@tacchini.com.br	RH	2ß Sem./	2007
+2897	MARIA ISABEL DE CAMARGO	"mabelcamargo@yahoo.com.br; maria_camargo@sicredi.com.br"	ADM	Int. Ver∆o/	2012
+202	MARIA MARTA RAPKIEWICZ	martaka@ibest.com.br	RH	2ß Sem./	2004
+255	MARIANA PELISSER FERRETTI	mariana@cinex.com.br	MK	2ß Sem./	2005
+766	MARICE DOS SANTOS MARQUES		RH	2ß Sem./	2008
+1033	MARIELA CIELO	mariela.cielo@hotmail.com	RH	2ß Sem./	2008
+737	MARIELE DONATTI	marieledonatti@yahoo.com.br	RH	1ß Sem./	2009
+359	MARILEIA LERMEN RIGONI	marileia@italinea.com.br	RH	2ß Sem./	2006
+1593	MARILENA MATTEI	mari_drops_bg@hotmail.com	ADM	2ß Sem./	2010
+936	MARILENE MACHADO SILVA	rh.marilene@bortolini.com.br	ADM	2ß Sem./	2011
+736	MARILI TEREZA MOCELIN SONAGLIO	marimocelin@ibest.com.br	RH	2ß Sem./	2009
+459	MARILZA DE SOUZA BORTOLANZA	marilza@multimoveis.com	PD	2ß Sem./	2006
+2246	MARINA PALUDO	marinapaludob@gmail.com	ADM	2ß Sem./	2010
+364	MARINES AMBROSI	marinesambrosi@zipmail.com.br	RH	1ß Sem./	2006
+703	MARINES FATIMA SEGHETO		ADM	2ß Sem./	2010
+592	MARISE CHASSOT DE CAMPOS	marise.campos@yahoo.com.br	ADM	1ß Sem./	2010
+203	MARISTELA PALU	rh@tacchini.com.br	RH	2ß Sem./	2007
+1034	MARISTELA ZARO DEITOS	mz@lottinet.com.br	ADM	2ß Sem./	2010
+1035	MARISTELA ZILLI	maristela.z@adylnet.com.br	ADM	2ß Sem./	2010
+2280	MARLI LÈCIA DA SILVA	marliluciasilva@hotmail.com	ADM	2ß Sem./	2010
+995	MARLISE BUCCO	"marlisebucco@yahoo.com.br;marlise.assistencia.rs@cbpbrasil.c"	ADM	2ß Sem./	2010
+438	MAURICIO BERSELLI	mauriber@hotmail.com	PD	1ß Sem./	2007
+14	MAURO BOMBASSARO		RH	2ß Sem./	2003
+3418	MAXON DE MESQUITA LAZZAROTTO	maxonlazarotto@gmail.com	ADM	2ß Sem./	2011
+785	MAYARA PRADO DE FIGUEIREDO POLETTO	mayara@poletto.com.br	MK	2ß Sem./	2006
+10	MELISSA CASAGRANDE	melissa@todeschinisa.com.br	RH	2ß Sem./	2005
+133	MELISSA SOMENSI	msomensi@hotmail.com	MK	2ß Sem./	2005
+883	MICHEL GRANDO		AGRO	2ß Sem./	2007
+714	MICHEL PASSOS SALES	freerolk@ibest.com.br	RH	2ß Sem./	2008
+357	MICHELE ANTONIA CORREIA DA SILVA	vendassp@pan.com.br	MK	2ß Sem./	2007
+889	MICHELE CAGLIONI GRANDO	michelecaglionig@yahoo.com.br	AGRO	2ß Sem./	2009
+595	MICHELE ROBERTA TICZ		AGRO	2ß Sem./	2009
+118	MICHELE SCHMITZ		MK	2ß Sem./	2005
+2594	MICHELLE BêZ	michellebez.17@gmail.com	ADM	2ß Sem./	2011
+596	MIGUEL LUCAS BASSO	miguel@dallonder.com.br	RH	Int. Ver∆o/	2008
+1038	MILTON CAVALERI	mcavaleri@italnet.com.br	ADM	2ß Sem./	2010
+259	MILTON JOSE SANTIN	ipiranga@oknet.com.br	MK	2ß Sem./	2005
+461	MOACIR ANTONIO BORCHERS		PD	2ß Sem./	2008
+144	MONICA BOARO		MK	1ß Sem./	2005
+1039	MONICA LETICIA SOMENSI	ls.moni@hotmail.com	ADM	2ß Sem./	2010
+1599	MONICA PELIZZER	monicapelizzer@yahoo.com.br	RH	2ß Sem./	2009
+1814	MORGANA LUISA FESTA BAU	ml.bau@hotmail.com	ADM	2ß Sem./	2010
+1602	MORGANA PETRIKOVSKI	morgana.np@ibest.com.br	RH	2ß Sem./	2009
+597	MORGANA PRESOTTO SBERSE	morgana@isabela.com.br	RH	2ß Sem./	2008
+798	NADIA REGINATO BASSO	nadia.reginato@terra.com.br	MK	2ß Sem./	2008
+1220	NADIA SBERSE LUCIETTO	nadiasl27@gmail.com	ADM	1ß Sem./	2010
+740	NAIR BELTRAN	nayrbeltran@hotmail.com	RH	2ß Sem./	2007
+204	NALVA VIVIANE ZAUZA	nalvazauza@hotmail.com	RH	2ß Sem./	2005
+92	NARA CRISTINA GEHLEN KRONHARDT	nara@italnet.com.br	RH	2ß Sem./	2005
+598	NATALIA DE TONI	meell@terra.com.br	RH	2ß Sem./	2007
+1699	NATALIA SOMENSI VICENTINI	nataliasvicentini@gmail.com	ADM	2ß Sem./	2010
+74	NEDIO ANTONIO ANDREOLLI	nandreolli@plastibento.com.br	RH	1ß Sem./	2007
+205	NEDIR LUIZ MARCHIORO	nedir@llottinet.com.br	RH	2ß Sem./	2005
+137	NEIDE MARIA MAZUTTI	neidemazutti@ibest.com.br	MK	2ß Sem./	2005
+1221	NEIVA MOSCHETTA SCHMIDT	neiva@coopsantaclara.com.br	ADM	2ß Sem./	2010
+367	NEIVA TARSO		RH	2ß Sem./	2005
+1041	NELCIR ANTONIO PELIZZARI	nelcirp@yahoo.com.br	ADM	2ß Sem./	2010
+120	NELINHO BARBIERI	nelinho@ibest.com.br	MK	1ß Sem./	2004
+4820	NELSON VARONI	nelsonvaronipt@yahoo.com.br	ADM	2ß Sem./	2011
+260	NEORIDES MAZUTTI	neoridesmazutti@yahoo.com.br	MK	2ß Sem./	2005
+787	NEREU DILSON CONZATTI	ndc@terra.com.br	MK	2ß Sem./	2008
+369	NEUDETE GREGGIO	keia04@hotmail.com	MK	2ß Sem./	2007
+892	NEURO BORDIGNON	neuro@realcenter.com.br	MK	2ß Sem./	2009
+3114	NEY ESTEV«O TRAMONTINA FILHO	neyestevao@gmail.com	ADM	2ß Sem./	2011
+439	ODINEI FAVARETTO		PD	1ß Sem./	2009
+841	ODIRLEI DORS		PD	2ß Sem./	2009
+261	OLIR RIZZI		MK	2ß Sem./	2005
+371	ORIDES RODRIGUES DA SILVA	oridesr@bertolini.com.br	MK	2ß Sem./	2009
+441	ORNECIO ERNANI TOMAZINI	producao@maxicorte.com.br	PD	2ß Sem./	2009
+601	PATRICIA BERTUZZI	creca2004@yahoo.com.br	RH	2ß Sem./	2009
+1102	PATRICIA CARVALHO	pati0718@terra.com.br	MK	2ß Sem./	2008
+985	PATRICIA GOBATTO	patriciagobatto@hotmail.com	MK	2ß Sem./	2007
+1103	PATRICIA LONGHI BARBIERI	patibarbi@gmail.com	ADM	2ß Sem./	2010
+725	PATRICIA MEDEIROS FRAPORTI	patriciamedeiros1@yahoo.com.br	ADM	2ß Sem./	2010
+1607	PATRICIA OSMARIN	patyosm@ibest.com.br	ADM	2ß Sem./	2010
+140	PATRICIA SCHMITZ	patricia@ditalia.com.br	MK	2ß Sem./	2004
+1608	PATRICIA VIEL	patimp@ibest.com.br	ADM	2ß Sem./	2010
+1223	PAULA DE MARI		ADM	2ß Sem./	2011
+209	PAULA OTAVIA PERUZZO STEIN	paula@brvmoveis.com.br	RH	2ß Sem./	2007
+1042	PAULA RENATA ALVES	paulaalves83@hotmail.com	RH	2ß Sem./	2009
+993	PAULA TESSARI	paula@todeschinisa.com.br	MK	2ß Sem./	2009
+106	PAULO BRUSCHI	paulobruschi@grepar.com.br	MK	1ß Sem./	2006
+691	PAULO CESAR DENDENA	paulodendena@yahoo.com.br	AGRO	2ß Sem./	2009
+1158	PAULO CESAR DOS SANTOS	paulo.santos@irwin.com.br	ADM	2ß Sem./	2011
+1610	PAULO GILBERTO BENITES LOPES	paulogbenites@yahoo.com.br	MK	Int. Ver∆o/	2008
+1157	PAULO HENRIQUE FESTA	paulo@telasul.com.br	ADM	2ß Sem./	2011
+1611	PAULO HENRIQUE WERNER DE SOUZA	paulohwerner@hotmail.com	ADM	1ß Sem./	2011
+124	PAULO NERI LUCCHESE	paulonl@oknet.com.br	MK	1ß Sem./	2004
+262	PEDRO JOSE TORMEN	plasti@plastibento.com.br	MK	2ß Sem./	2005
+1044	PRISCILA GARBIN	dpto_rh@tacchini.com.br	ADM	2ß Sem./	2010
+1241	PRISCILA PERTILE	priscila@todeschinisa.com.br	RH	2ß Sem./	2007
+1613	QUELEN ANDRADE CARVALHO	quelen_ac@yahoo.com.br	ADM	2ß Sem./	2010
+1104	RACHEL ARBUSTI	rachel_arbusti@hotmail.com	MK	2ß Sem./	2008
+853	RAFAEL SANDRIN	rafaelsandrin@terra.com.br	ADM	2ß Sem./	2010
+603	RAQUEL BORTONCELLO	rh@rodotecnica.com.br	RH	2ß Sem./	2007
+604	RAQUEL RODRIGUES DE OLIVEIRA	raquel@farina.com.br	RH	2ß Sem./	2007
+164	RAQUEL SCHMIDT	raquel.schmidt@ibest.com.br	RH	2ß Sem./	2005
+1224	REJANE FERRARI CARVALHO CERRUTTI	rejane.cerrutti@coopsantaclara.com.br	ADM	2ß Sem./	2011
+1045	REJANE MARIA GUARAGNI	"rejaneguaragni@yahoo.com.br; rejane@todeschinisa.com.br"	ADM	2ß Sem./	2010
+97	REJANE MEASSI	rejan@italnet.com.br	RH	2ß Sem./	2003
+1909	RENAN FELIX	renanfelixx@hotmail.com	MK	2ß Sem./	2008
+469	RENATO PASQUAL RANZAN	renato.ranzan@terra.com.br	MK	2ß Sem./	2005
+275	RICARDA GASPARIN MIGLIAVACCA	ricarda@ibest.com.br	RH	1ß Sem./	2003
+399	RICARDO DAL PONTE SEGATTO		RH	2ß Sem./	2007
+1620	RICARDO JOAO CARGNIN	ricardo.c@unicasamoveis.com.br	ADM	2ß Sem./	2010
+2780	RICARDO ZORTêA	cadozortea@gmail.com	ADM	2ß Sem./	2011
+54	RITA DE CASSIA TREVISOL	rita@madem.com.br	RH	2ß Sem./	2005
+640	RIZZIERI SCUSSEL	rizzieri84@gmail.com	MK	2ß Sem./	2009
+211	ROBERTA SIMONAGGIO	roberta@todeschinisa.com.br	RH	2ß Sem./	2006
+40	ROBERTO MARINI		RH	2ß Sem./	2004
+606	ROBERTO ROQUE MONTEIRO	roromon@ig.com.br	PD	2ß Sem./	2008
+1162	ROBERTO SBERSE	roberto@unicamoveis.com.br	ADM	2ß Sem./	2010
+2799	ROBINSON JOSê MAHL	"rj_mahl@hotmail.com; 3409.robinson@bradesco.com.br"	ADM	2ß Sem./	2011
+1046	ROBSON BOSCARDIN PORTALUPPI	portaluppi@localnet.com.br, portaluppi46@terra.com.br	RH	2ß Sem./	2009
+608	RODRIGO DE ALMEIDA	rodrigodrops@gmail.com	ADM	Int. Ver∆o/	2012
+609	RODRIGO DE TONI	rodrigo@telasul.com.br	MK	2ß Sem./	2008
+610	RODRIGO FRONZA MASSUTTI	rodrigo@siglovisual.com.br	MK	2ß Sem./	2006
+484	RODRIGO LUIS CECCON	atendimento@dongiovanni.com.br	RH	2ß Sem./	2006
+55	RODRIGO TASCA	rodrigo.tasca@dellanno.com.br	RH	2ß Sem./	2007
+1226	RODRIGO TOALDO CAPPELLARI	rcappellari@gmail.com.br	AGRO	2ß Sem./	2007
+1163	ROGER DIEGO SALVADOR	rogerdiego_salvador@yahoo.com.br	ADM	2ß Sem./	2010
+611	ROGERIO AIMI	administracao@maxicorte.com.br	PD	1ß Sem./	2009
+887	ROGERIO CARLOS CIPRANDI	agricola@tecnovin.com.br	AGRO	2ß Sem./	2008
+103	ROGERIO GIROTO CONCLI	rogers.c@bol.com.br	MK	2ß Sem./	2003
+613	ROGERIO LOCATELLI	rogerio0801@click21.com.br	RH	2ß Sem./	2008
+376	ROMEU VILMAR SCHROEDER	romeushroeder@brturbo.com.br	MK	2ß Sem./	2009
+1164	ROQUE SBERSE	roque.sberse@gmail.com	ADM	2ß Sem./	2010
+3878	ROSA ELI VIERO SARTURI	rosaeliviera@yahoo.com.br	RH	2ß Sem./	2009
+165	ROSANA BOERI	rosana.boeri@bol.com.br	MK	2ß Sem./	2003
+1227	ROSANGELA BONINSEGNA	rosangelab@bertolini.com.br	ADM	2ß Sem./	2011
+1228	ROSANGELA FATIMA GONCALVES SARTORI	dsrg2@bol.com.br	ADM	1ß Sem./	2010
+1234	ROSELI DA SILVA	rose.s123@yahoo.com.br	ADM	2ß Sem./	2010
+47	ROSELI SIGNORI MIKOASKI	r.mikoaski@isabela.com.br	RH	2ß Sem./	2003
+1373	RUBENS DE CARLI	decarli@correios.com.br	RH	2ß Sem./	2008
+444	RUDIMAR BASSANI	rudimarb@bertolini.com.br	PD	2ß Sem./	2008
+1630	SALETE MARTINS	"saletemartins@ibest.com.br; sale.martins@hotmail.com"	ADM	2ß Sem./	2011
+65	SAMARA BEZ		RH	2ß Sem./	2004
+13	SAMARA NEGRI BERTUZZI	samarabz@ibest.com.br	RH	2ß Sem./	2003
+1633	SAMARA TORETTI	samaratoretti@gmail.com	ADM	2ß Sem./	2011
+653	SANDRA INES SPEROTTO BIANCHI	hitalianinha@yahoo.com.br	RH	1ß Sem./	2009
+447	SANDRA MARA RIGONI		RH	2ß Sem./	2006
+212	SANDRA MARI DA FONTOURA	pitifontoura@yahoo.com.br	RH	1ß Sem./	2007
+1242	SANDRA MARLI DAMBROS	sandra.dambros@hotmail.com	MK	2ß Sem./	2009
+846	SANDRO LUIS DEBORTOLI	sandro@telasul.com.br	PD	2ß Sem./	2009
+617	SERGIO AGOSTINHO BALDASSO	s_agostinho@yahoo.com.br	RH	2ß Sem./	2007
+1050	SERGIO AGUILAR DA SILVA SCHMITZ	schmitz@cnpuv.embrapa.br	RH	2ß Sem./	2009
+618	SHEILA KELI DOS SANTOS TONIAL	scheilakelli@yahoo.com.br	RH	2ß Sem./	2006
+1747	SHEILA PIZZI	sheila.pizzi@gmail.com	ADM	2ß Sem./	2010
+825	SHERON BIASIN	sheronbiasin@yahoo.com.br	RH	2ß Sem./	2009
+875	SIDINEI ADILIO DOS SANTOS		PD	2ß Sem./	2009
+1973	SIDINEI LEIDENS	sleidens@brturbo.com.br	ADM	2ß Sem./	2010
+940	SIDONIR NOAL	sidonirnoal@yahoo.com.br	ADM	2ß Sem./	2010
+213	SILMARA NOAL	silmaranoal@yahoo.com.br	RH	2ß Sem./	2006
+1636	SILVANE FATIMA MICHELLI	silvanemichelli@yahoo.com.br	RH	2ß Sem./	2009
+52	SILVANO CESAR BASSO	silbasso@terra.com.br	RH	1ß Sem./	2003
+756	SILVIA CARRER	silviacarrer@ibest.com.br	RH	2ß Sem./	2009
+619	SILVIO ANTONIO MARIN	smarinl@plastibento.com.br	MK	2ß Sem./	2008
+265	SILVIO BERTOLINI PASIN	spasin@terra.com.br	MK	2ß Sem./	2005
+620	SILVIO PEREIRA DOS SANTOS	compras@rodotecnica.com.br	PD	2ß Sem./	2007
+380	SIMARA BIANCHI DI BERNARDO		RH	2ß Sem./	2006
+281	SIMONE BAVARESCO SARTORI	simone.sartori@irwin.com.br/monebavaresco@yahoo	RH	1ß Sem./	2007
+728	SIMONE CARNIEL	"simone.carniel@irwin.com.br; simonecarniel@ibest.com.br"	ADM	1ß Sem./	2010
+1821	SIMONE DE CARLI	"simonec@bertolini.com.br; simone_de_carli@yahoo.com.br"	RH	2ß Sem./	2009
+71	SIMONE FRANZ DE LIMA	simonefranz@uol.com.br	RH	2ß Sem./	2004
+2452	SIMONE GALVES	sggsimo@yahoo.com.br	ADM	2ß Sem./	2011
+1637	SIMONE PIUCO	simonepiuco@gmail.com	ADM	2ß Sem./	2010
+941	SIMONE TONIN	simone.tonin@vipal.com.br	RH	2ß Sem./	2009
+379	SINARA ZANCHET	sinara@maximarketing.com.br	RH	2ß Sem./	2004
+266	SIRLEI FREITAG	sfreitag@zipmail.com.br	MK	2ß Sem./	2004
+1051	SONIA LOPES	sonial@bertolini.com.br	ADM	2ß Sem./	2010
+214	SONIA MARA ANTUNES DE LARA	soniadelara@bol.com.br	RH	2ß Sem./	2006
+641	SONIA MARA FACCHI	soniafacchi@ibest.com.br	MK	2ß Sem./	2007
+1237	SONIA MARIA MINUZZI	soniaminuzzi@italnet.com.br	PD	2ß Sem./	2007
+760	SONIA MARIA SALVALLAGGIO	sonia@dallonder.com.br	RH	2ß Sem./	2009
+1693	S‚NIA RIBEIRO DE CAMPOS	soniaribeiro84@yahoo.com.br	ADM	1ß Sem./	2011
+152	SONIA ROBETTI	soniarobetti@ibest.com.br	MK	2ß Sem./	2004
+284	SORAIA CAUDURO CHESINI		RH	2ß Sem./	2004
+1741	STEFANI HASSELEIN		RH	2ß Sem./	2008
+1638	SUêLEN FRANCHINI MEZZAROBA	"sumezza@gmail.com; compras@pcr.ind.br"	ADM	1ß Sem./	2011
+1963	SUELEN MARIN	suelenmarin25@yahoo.com.br	ADM	2ß Sem./	2010
+1927	SUêLEN PATRICIA DOS SANTOS	suelenpds@yahoo.com.br	ADM	2ß Sem./	2010
+1639	SUELI PACHE	suelipache@gmail.com	ADM	Int. Inv./	2010
+642	SUELI TRESSOLD		MK	2ß Sem./	2008
+50	SUSANA FATIMA VANSET	susana@sulbras.com.br	RH	2ß Sem./	2003
+3903	SUSANE MACHADO		ADM	2ß Sem./	2011
+1052	SUZETE ELISA CAMPEOL	suzeteec@terra.com.br	RH	2ß Sem./	2009
+1640	TABATA MILENA BALESTRO BORGES	tabatabalestro@yahoo.com.br	RH	2ß Sem./	2009
+1940	TA÷S BAROSSI GIACOMIN	tatai_barossi@yahoo.com.br	ADM	1ß Sem./	2012
+747	TAIS TOMASINI DA SILVA ROSSATTO	tais.tomasini@yahoo.com.br	ADM	2ß Sem./	2010
+776	TANARA CONZATTI	tanara@italnet.com.br	MK	2ß Sem./	2008
+1230	TANIA FµTIMA MAZZOCHIN	tania@miolo.com.br	ADM	2ß Sem./	2011
+381	TANIA MARIA FRAMIA BORDIGNON	remib@terra.com.br	RH	2ß Sem./	2006
+53	TATIANE DONIDA	tatidoni@terra.com.br	RH	2ß Sem./	2005
+1644	THA÷S BORDIGNON	thaisbordignon@yahoo.com.br	ADM	2ß Sem./	2011
+2870	THA÷S PUERARI MöLLER	thais.pmuller@bol.com.br	ADM	2ß Sem./	2011
+1109	THIAGO CONTI ROSSATTO	thiagaocr@gmail.com	ADM	2ß Sem./	2011
+839	THIAGO LUIS MAYER	tlmayer@ig.com.br/ seguranca@sca.com.br	PD	2ß Sem./	2008
+877	THIAGO SACCHETT	titignr@gmail.com	ADM	2ß Sem./	2010
+1167	TIAGO ALVES	j.aseguros@ibest.com.br	MK	2ß Sem./	2009
+624	TIAGO PAESE	tpaese@ibest.com.br	RH	2ß Sem./	2008
+2299	TIANA BRITO DA SILVEIRA BILDHAUER	tianabildhauer@bol.com.br	ADM	2ß Sem./	2010
+478	TICIANE RIZZARDO	lparisotto@oknet.com.br	RH	2ß Sem./	2006
+709	VALDECIR ANTONIO FAVARETTO	valdecir06@yahoo.com.br	PD	1ß Sem./	2009
+72	VALDECIR BAVARESCO	vbavaresco@lottinet.com.br	RH	2ß Sem./	2003
+1170	VALDECIR MEZADRI	valdecirmezadri@ibest.com.br	ADM	2ß Sem./	2011
+1171	VALDECIR PESIN	valdecirpesin@gmail.com	ADM	1ß Sem./	2011
+866	VALDIR BENDER	valdir.bender@irwin.com.br	ADM	2ß Sem./	2010
+1694	VALDIR MENEGAT	vmenegat@yahoo.com.br	ADM	2ß Sem./	2011
+2031	VALêRIA BERNARDI	"valbgrs@yahoo.com.br;valeria@unicasamoveis.com.br"	ADM	2ß Sem./	2011
+269	VALESCA CRISTINA CECON TONIOLO		MK	2ß Sem./	2005
+701	VALESCA PAVONI	valescapavoni@hotmail.com.br	MK	2ß Sem./	2009
+718	VANDERLEA VIDALVINA BASSO	vvbasso@yahoo.com.br/ ceforbg@cefor-rs.com.br	RH	2ß Sem./	2008
+270	VANDERLEI LUIS TRAMONTINA	vande@pop.com.br	MK	2ß Sem./	2007
+1901	VANESSA DALMµS	nessadalmas@yahoo.com.br	ADM	2ß Sem./	2011
+1941	VANESSA DE BITENCOURT DORNELES	vanessadorneles15@yahoo.com.br	ADM	2ß Sem./	2010
+1111	VANESSA MACHADO	vanessa.machadomkt@gmail.com	MK	2ß Sem./	2009
+80	VANIA BERNARDETE MASUTTI CANALLE	vania.canalle@vinicolaaurora.com.br	RH	Int. Ver∆o/	2008
+141	VANIA MARIA BOLEZINA BELTRAMI	vendas4@moveistres-s.com.br	MK	2ß Sem./	2005
+450	VANIA MARIA BRANDELLI RIGOTTO	vania@multimoveis.com	PD	2ß Sem./	2006
+2801	VERIDIANA LEONHARDT	verileonhardt@hotmail.com	ADM	2ß Sem./	2011
+693	VERIDIANE MARINI	veridiane@meber.com.br	MK	Int. Ver∆o/	2008
+1967	VERIDIANE RODRIGUES	verybg24@yahoo.com.br	ADM	2ß Sem./	2010
+628	VILMA MARIA CAMPARA REICHENBACH	vilma@unionpack.com.br	RH	1ß Sem./	2009
+629	VILMAR FERLA	vilmarferla@yahoo.com.br	PD	2ß Sem./	2008
+383	VINICIA BRAUN	vinnybraun@zipmail.com.br	RH	2ß Sem./	2007
+1650	VINICIUS TITTON	viny.bg@gmail.com	MK	2ß Sem./	2009
+630	VIRLAINE LEONELA BENEDETTI	benedeti@italnet.com.br	RH	2ß Sem./	2007
+3088	VIVIANA FRIDA MEIER	vivi_fmeier@yahoo.com.br	ADM	2ß Sem./	2011
+1654	VIVIANE DALLA COLLETTA	vivianedcs@bol.com.br	ADM	2ß Sem./	2010
+1390	VIVIANE GIACOMELLI BUSSOLOTTO	vivi.giacomelli@hotmail.com	MK	2ß Sem./	2007
+1113	VIVIANE SCHNEIDER	viviane@energisul.com.br	ADM	2ß Sem./	2010
+110	VIVIANE TERESINHA BORTOLINI	vivib@italnet.com.br	MK	2ß Sem./	2005
+633	VOLMIR ZANETTI	"volmir.zanetti@dalponte.com.br; volzan@ibest.com.br"	RH	1ß Sem./	2009
+655	WAGNER AGOSTINI	wagner@casttini.com.br	RH	2ß Sem./	2008
+218	WATSON CORBELLINI	watsoncb82@hotmail.com	ADM	2ß Sem./	2010
+996	ZENIR PELIZZARO	zelizzaro@yahoo.com.br	RH	2ß Sem./	2007
+36	ZILMAR FIN	zilmar@italnet.com.br	RH	1ß Sem./	2002
+					
+					
+					
+					
+2686	DEISE LUCILA NOBRE DE CASTRO	deise.nobre@yahoo.com.br	TUR	2ß Sem./	2011
+2797	FERNANDA DALLABRIDA	fernandadallabrida@yahoo.com.br	TUR	Int. Inv./	2011
+2783	FERNANDA MIGOT	fernandamigot@yahoo.com.br	TUR	Int. Inv./	2011
+2692	LIDIANE RAUBER LORETO DA ROSA	lidi.rauber@gmail.com	TUR	2ß Sem./	2011
+2700	QUêLI MARTINS LOPES CHOQUETTA	queli-lopes@hotmail.com	TUR	2ß Sem./	2011
+					
+					
+					
+					
+2471	ADES JANE BOZZETTO SOMACAL	adesjane@ibest.com.br	ENF	1ß Sem./	2008
+2118	ADRIANA DA COSTA MAICµ	dricasevero@bol.com.br	ENF	2ß Sem./	2009
+1247	ADRIANA ELIZA SEGALA	drikaeliza@yahoo.com.br	ENF	2ß Sem./	2007
+2472	ADRIANA ZILLI GIOVANELLA	iggiovanella@uol.com.br	ENF	2ß Sem./	2008
+1303	ADRIANE FATIMA FACHI	adrianefachi@gmail.com	ENF	1ß Sem./	2008
+1878	ADRIANE MACHADO NUNES MISSIO	adrianemissio@yahoo.com.br	ENF	2ß Sem./	2009
+1304	ADRIANE TOMASIN DE TONI		ENF	1ß Sem./	2008
+3119	ALEXANDRA MENIN - P¢s	"tchanda.menin@yahoo.com.br;"	ENF	2ß Sem./	2011
+2899	ALEXANDRA SPAGNOLO GRAPEGIA	dulcegrapegia@terra.com.br	ENF	2ß Sem./	2009
+1248	ALINE BERTON	alinebrx@yahoo.com.br	ENF	2ß Sem./	2007
+1870	ALINE CHASSOT	alinechas@hotmail.com	ENF	1ß Sem./	2009
+1307	ANA MARIA MONFRINI		ENF	1ß Sem./	2009
+3607	ANDERSON LUIS BERGAMASCHI	ander_d2@msn.com	ENF	2ß Sem./	2010
+1308	ANDREA MATTE MEOTTI		ENF	1ß Sem./	2009
+1859	ANDREIA OLIVEIRA DA SILVEIRA	andreiafabike@hotmail.com	ENF	1ß Sem./	2009
+2116	ANDREIA RAQUEL DE SOUZA SCARTON - p¢s	"andreia.scarton@yahoo.com.br; tacchini@tacchini.com.br"	ENF	1ß Sem./	2008
+2337	ANDREIA ZORTEA	andreiazortea@hotmail.com	ENF	2ß Sem./	2010
+2334	ANGELICA DE FATIMA ABREU	angelica_abreu04@yahoo.com.br	ENF	2ß Sem./	2009
+1399	ANNA CAROLINA MARCON DOS SANTOS	babiamag@hotmail.com	ENF	2ß Sem./	2011
+2162	ARICELE DE VILLA	ricedvilla@yahoo.com.br	ENF	2ß Sem./	2008
+2324	BRUNA BAVARESCO	brubavaresco@yahoo.com.br	ENF	2ß Sem./	2009
+2820	BRUNO ANDREIS - p¢s	b_andreis@yahoo.com.br	ENF	2ß Sem./	2010
+1402	CARINA PELISSON	carina.pelisson@yahoo.com.br	ENF	2ß Sem./	2008
+1874	CARINE DAIPRAI DALMOLIN	carinedalmolin@yahoo.com.br	ENF	2ß Sem./	2008
+2335	CARLA BRUM BOURSCHEID	carlabourscheid@yahoo.com.br	ENF	1ß Sem./	2011
+1867	CATRI GISSELE CORADI	catricoradi@terra.com.br	ENF	1ß Sem./	2009
+2106	CELIA BISCHOFF FOCHI		ENF	1ß Sem./	2008
+1408	CHARLES ECKER	chaecker@gmail.com	ENF	1ß Sem./	2009
+2171	CLAUDETE CIMADON TIBURSKI		ENF	2ß Sem./	2008
+2478	CLAUDIA REGINA DANIEL	claudaniel23@yahoo.com.br	ENF	2ß Sem./	2010
+1736	CLENISE LILIANE SCHMIDT	cleniseschmidt@yahoo.com.br	ENF	2ß Sem./	2008
+1863	CLEUSA DO SACRAMENTO SCHIZZI		ENF	1ß Sem./	2009
+1862	CRISTIANE GONZATTI CESCO	cristianegonzatti@yahoo.com.br	ENF	1ß Sem./	2009
+1315	CRISTIANE GUSATTO	crisgusatto@hotmail.com	ENF	1ß Sem./	2008
+1452	DAIANA RECHE		ENF	2ß Sem./	2008
+2101	DAIANE PRESOTTO VANNI	daianevanni@gmail.com	ENF	2ß Sem./	2007
+1254	DAIANE SEBEN ACORSI (FORMADA)	daianeacorsi@yahoo.com.br	ENF	2ß Sem./	2007
+3611	DAISY CAROLINE DA COSTA PEREIRA	"daisycaroline13@hotmail.com; daisycaroline69@yahoo.com.br"	ENF	2ß Sem./	2011
+1255	DANIELA MERLO		ENF	2ß Sem./	2007
+3340	DANIELI ARGENTA - p¢s	danieliargenta@yahoo.com.br	ENF	2ß Sem./	2011
+3621	DIONEQUELI PEREIRA DA SILVA DOS SANTOS	dionequelisilva1083@yahoo.com.br	ENF	2ß Sem./	2011
+1319	ECLEIA POZZEBON - p¢s	ecleia@gmail.com	ENF	1ß Sem./	2008
+1256	EDEMAR AFONSO KUHN	edemarabg@yahoo.com.br	ENF	2ß Sem./	2007
+3386	ELENARA DA SILVA COELHO	elenaracoelho@yahoo.com.br	ENF	2ß Sem./	2009
+1911	ELGONDIR FATIMA BIAZUSSI	judi.fa@ibest.com.br	ENF	2ß Sem./	2009
+2332	ELIANE ENECI DA SILVA	elianeeneci@yahoo.com.br	ENF	2ß Sem./	2010
+2336	ELIANE PEGORARO	elianepegoraro29@yahoo.com.br	ENF	1ß Sem./	2010
+3343	ELISANDRO GREFF DA SILVA	elisandro_greff@hotmail.com	ENF	2ß Sem./	2011
+1258	ELISE TECCHIO (formado)	e_tecchio@yahoo.com.br	ENF	2ß Sem./	2007
+1871	ERCI RENI STEIN	ercistein@gmail.com	ENF	2ß Sem./	2009
+2193	EUGENIA MARIA LIGOSKI	eugenia_ml@yahoo.com.br	ENF	2ß Sem./	2010
+2121	FATIMA ROIESKI NOHATO	fatimanohato@ibest.com.br	ENF	2ß Sem./	2009
+2203	FERNANDA AROSI		ENF	2ß Sem./	2008
+1415	FERNANDA FRACALOSSI		ENF	1ß Sem./	2009
+1261	FRANCIELE DE OLIVEIRA ABREU	francid20@yahoo.com.br	ENF	1ß Sem./	2009
+2418	GISELI DA SILVA MOURA PERUCHENA	gizaperuchena@yahoo.com.br	ENF	2ß Sem./	2008
+1879	GIZELE RODRIGUES DA CUNHA	gikacunha@yahoo.com.br	ENF	1ß Sem./	2009
+2209	GRACIELE JOHANN GEDOZ	gracielejg@yahoo.com.br	ENF	2ß Sem./	2009
+2484	HELEN PAULA TOLDO	helentoldo@hotmail.com	ENF	2ß Sem./	2010
+2485	JAICIMARA DE MORAES DE OLIVEIRA	jaicimar@yahoo.com.br	ENF	2ß Sem./	2008
+1267	JANETE FONTANA	janete.rs@ibest.com.br	ENF	1ß Sem./	2008
+2331	JAQUELINE LUCHESE	larparaidosos@terra.com.br	ENF	2ß Sem./	2009
+2110	JOAO CLENIO DE BASTOS SILVEIRA	joaoclenio@ibest.com.br	ENF	2ß Sem./	2008
+1269	JOCELAINE DE JESUS LENCINA - p¢s	jojo34np@yahoo.com.br	ENF	2ß Sem./	2007
+3110	JO÷CE DALL'AGNOL	joicedallagnol@hotmail.com	ENF	2ß Sem./	2010
+2487	JONES MENEZES MARQUES	jonesmm2005@yahoo.com.br	ENF	2ß Sem./	2008
+1425	JORDANA SCUSSEL		ENF	1ß Sem./	2009
+2115	JOSSANE CASAGRANDE PIFFER		ENF	2ß Sem./	2009
+1331	JULIANA CAROLINE PETROLI	julipetroli@yahoo.com.br	ENF	2ß Sem./	2007
+3474	JULIANA MACHADO	julli.enf@hotmail.com	ENF	2ß Sem./	2011
+3481	JULIANE MESNEROVICZ BIELAK	"julia_nani_juliane@hotmail.com; jujubielak@yahoo.com.br"	ENF	2ß Sem./	2011
+2489	KELEN DOS SANTOS JORGE	loja.bento@htcelulares.com	ENF	2ß Sem./	2008
+2490	LAISES REJANE CAROSSI STRINGHINI		ENF	1ß Sem./	2008
+1429	LEANDRO BARON	bombeirobaron@yahoo.com.br	ENF	2ß Sem./	2008
+2491	LEANDRO RODRIGUES MACHADO DOS SANTOS		ENF	2ß Sem./	2008
+1273	LEILA SCOTTA - p¢s	leilascotta@terra.com.br	ENF	2ß Sem./	2007
+1274	LEO ZANCHETT		ENF	1ß Sem./	2008
+2111	LEONICE DE LOURDES DE VARGAS MAIA	maialeonice@yahoo.com.br	ENF	2ß Sem./	2009
+3482	LET÷CIA CAMERINI BIANCHI	"estoque.farm@tacchini.com.br; leticia.cenf@tacchini.com.br"	ENF	2ß Sem./	2011
+3355	LILIANE BAVARESCO	lilibavaresco@hotmail.com	ENF	2ß Sem./	2011
+2806	LISANDRA MACHADO RODRIGUES	enfermeiralisandra@bol.com.br	ENF	2ß Sem./	2010
+1301	LISIANE FROZA	lisi.froza@yahoo.com.br	ENF	2ß Sem./	2007
+3626	LIZETE IN“S DE MARCO COLIONE	lizetecolione@yahoo.com.br	ENF	1ß Sem./	2010
+3475	LIZIANE APARECIDA NIQUELLE	lizianeniquelle@yahoo.com.br	ENF	2ß Sem./	2010
+2097	LOISE LACERDA CARNEVALLI	loise_lc@yahoo.com.br	ENF	2ß Sem./	2008
+1432	LOURDES CAGLIARI ZENKI	lullyzinha88@yahoo.com.br	ENF	2ß Sem./	2008
+2784	LUANA TOSETO	luanatoseto@yahoo.com.br	ENF	2ß Sem./	2010
+2884	LUANA WOLFF	luwolff9@hotmail.com	ENF	2ß Sem./	2010
+1334	LUCIANE BERTONCELLO	lulucrespinha@yahoo.com.br	ENF	1ß Sem./	2008
+2417	LUCIANE DELAI	lucidelai@yahoo.com.br	ENF	2ß Sem./	2007
+1877	LUCIANE MARIA BUSATTA	lumaria@pressa.com.br	ENF	2ß Sem./	2009
+3387	LUCIANE MIRANDA	lucyane_miranda@yahoo.com.br	ENF	2ß Sem./	2010
+1335	LUCILENA EITELVEN MEOTTI	lucilenameotti@pop.com.br	ENF	2ß Sem./	2008
+1876	MARCIA ANJAILA DA ROSA MACHADO	marciamachado1976@yahoo.com.br	ENF	2ß Sem./	2010
+2416	MARCIA BAUMBACH - p¢s	marciaba0103@hotmail.com	ENF	2ß Sem./	2008
+1339	MARCIA MARIA DOS SANTOS	marciawasum@bol.com.br	ENF	2ß Sem./	2007
+2243	MARI CLEIDE DE SOUZA VAZ		ENF	1ß Sem./	2008
+1277	MARIA GECI DA COSTA BORGES FUGALLI - p¢s	mg523@terra.com.br	ENF	2ß Sem./	2007
+1869	MARIZA BERTOLDO	marizabertoldo@ibest.com.br	ENF	1ß Sem./	2010
+2108	MARTA DA SILVA BORGES	martasilvaborges@yahoo.com.br	ENF	2ß Sem./	2008
+1279	MELISSE MARCOLIN	melissemarcolin@yahoo.com.br	ENF	1ß Sem./	2008
+2114	MERLEM IZANARA AMARAL PAVAO	merlem-iza@ibest.com.br	ENF	2ß Sem./	2009
+2117	MICHELE LAZZARINI		ENF	2ß Sem./	2009
+2500	MIRIANE PIANI FRESCURA	mirianef@yahoo.com.br	ENF	2ß Sem./	2008
+1280	MONICA RAIMONDI	mo_raimondi@hotmail.com.br	ENF	2ß Sem./	2007
+1281	NAIARA BENVENUTTI BAGGIO	naiabg2004@yahoo.com.br	ENF	2ß Sem./	2007
+1439	NAIRA SOCCOL	nairasoccol@gmail.com	ENF	2ß Sem./	2008
+1283	NATALIA MORELLO	natchi@italnet.com.br	ENF	2ß Sem./	2007
+1724	ORTENCIA RODRIGUES SANTIN	tencia.santin@yahoo.com.br	ENF	2ß Sem./	2008
+1284	PATRICIA AUDIBERT MENEZES	paty@italnet.com.br	ENF	2ß Sem./	2007
+1287	RAQUEL FRANZEN - p¢s	quelfranzen@yahoo.com.br	ENF	2ß Sem./	2007
+3361	RENATA FRONZA SCHENATTO	renata_schenatto@hotmail.com	ENF	2ß Sem./	2011
+2425	ROBERTA ANGELA TONIETTO	robetonietto@yahoo.com.br	ENF	1ß Sem./	2008
+1289	ROBERTA MASSUTTI BANDEIRA	roberta@sigodesign.com.br	ENF	2ß Sem./	2007
+1347	ROSELANE NUNES BUENO		ENF	1ß Sem./	2008
+1907	SILVIA GABARDO		ENF	1ß Sem./	2009
+1292	SIMONE MENEGON	simonemenegon@yahoo.com.br	ENF	2ß Sem./	2007
+1861	SIMONE SIMIONI PERUZZO	simmoneperuzzo@hotmail.com	ENF	1ß Sem./	2009
+2443	SUZETE GUADAGNINI		ENF	2ß Sem./	2008
+1857	TACIANE DUARTE DE OLIVEIRA	enf.taciduarte@hotmail.com	ENF	1ß Sem./	2009
+1441	TAIS GIARETTA	taisgi@terra.com.br	ENF	2ß Sem./	2008
+2135	TANISE MARTINS NUNES	bruxinhakruel@yahoo.com.br	ENF	2ß Sem./	2009
+3413	TASSIANE ALINE EMMEL	tassiemmel@yahoo.com.br	ENF	2ß Sem./	2010
+2270	TERESINHA BASSO GOLDSCHMIDT		ENF	1ß Sem./	2008
+1353	TERESINHA BEATRIZ XIMENES CORREA		ENF	1ß Sem./	2008
+2896	THIANE BARBIERI SILVA	thiane_barbieri@hotmail.com	ENF	2ß Sem./	2010
+2871	TIAGO VILLA	tiagovillast@yahoo.com.br	ENF	2ß Sem./	2010
+2504	VALERIA GARBIN	valeria_garbin@yahoo.com.br	ENF	1ß Sem./	2009
+1300	VALESCA DALL OGLIO	val_doglio@yahoo.com.br	ENF	2ß Sem./	2007
+2099	VANESSA DE BARROS EVANGELISTA	debarrosevangelista@yahoo.com.br	ENF	2ß Sem./	2009
+1358	VANESSA MARIA DA COSTA	vanessamc@pop.com.br	ENF	2ß Sem./	2007
+1295	VANIA GIROTTO - p¢s	nanigirotto@yahoo.com.br	ENF	2ß Sem./	2007
+2419	VERANICE MARIA DEMARI DE COSTA		ENF	2ß Sem./	2007
+1297	VERENA ALZIRA SCHNEIDER ALVES	cesarlimpex@terra.com.br	ENF	2ß Sem./	2008
+2276	VIVIANE GIOVANELLA	vivigiovanella@yahoo.com.br	ENF	2ß Sem./	2009
+					
+					
+					
+3089	ANDRêIA QUêLI DE SOUZA ROQUE	"kelly_lavinick@yahoo.com.br;kellydreamer@hotmail.com"	NUT	2ß Sem./	2011
+2717	ANDRIELE BORTONCELLO	andri_borto2@hotmail.com	NUT	1ß Sem./	2012
+3404	BRUNA DACHERY	brudachery@yahoo.com.br	NUT	2ß Sem./	2011
+3306	CAMILA DIAS BERTUOL	"cami.db@hotmail.com;"	NUT	2ß Sem./	2011
+3041	CAMILA DUCATI	camiducati@hotmail.com	NUT	1ß Sem./	2011
+2705	CAMILA GASPARETTO	camy_nutri@yahoo.com.br	NUT	1ß Sem./	2012
+4243	CµREN CRISTINE DAL MAS	carencristinedalmas@gmail.com	NUT	1ß Sem./	2012
+3310	CISLENE FASCIO CERENTINI	cislenecerentini@yahoo.com.br	NUT	1ß Sem./	2012
+3406	DAIANA CAMPAGNARO DORNELES	"daicdorneles@ibest.com.br; daianacampagnaro@yahoo.com.br"	NUT	2ß Sem./	2011
+3312	DAIANE MARCHIORO	dayamarch@yahoo.com.br	NUT	2ß Sem./	2011
+3106	DEBORA CERCHIARI	deboracerchiari@yahoo.com.br	NUT	1ß Sem./	2011
+3051	ELENICE CARMEM PARIS	pityparis@hotmail.com	NUT	2ß Sem./	2011
+2730	ERIKA FREIRE BAUMGARTNER	erikabaum@hotmail.com	NUT	1ß Sem./	2011
+3053	FRANCIELI FERREIRA BINDA	franpferreira@yahoo.com.br	NUT	1ß Sem./	2012
+3121	GREICE GRANDI	greicegrandi2005@yahoo.com.br	NUT	1ß Sem./	2011
+3400	HELLEN ROSO	hellenroso@gmail.com	NUT	1ß Sem./	2011
+3410	INDAIµ MONTEIRO FABRIS	indaiamonteiro@yahoo.com.br	NUT	2ß Sem./	2011
+3055	INDYANA ROEDER RODRIGUES	indy.nutri@hotmail.com	NUT	1ß Sem./	2012
+3125	JULIANA BEATRIZ WERNER	juliana.beatriz@yahoo.com.br	NUT	2ß Sem./	2011
+3325	KELLI CRISTINA BIANCHI	kelita124@hotmail.com	NUT	1ß Sem./	2012
+3083	LA÷S COMIOTTO SARTOR	"lais_sart@hotmail.com; lais_sart@yahoo.com.br"	NUT	2ß Sem./	2011
+2738	LETIANE TELLES HOFFMANN	leti.hoffmann@hotmail.com	NUT	1ß Sem./	2011
+2739	LUANA MILANI PEDROTTI	lu_kilida@yahoo.com.br	NUT	1ß Sem./	2012
+3620	LULIANE KELLY BEDIN	luliane1@hotmail.com	NUT	2ß Sem./	2011
+3936	M‚NICA FERREIRA CAON	m.caon@yahoo.com.br	NUT	1ß Sem./	2012
+3335	NATµLIA IOLANDA CERATTI BALEM	nataliabalem@gmail.com	NUT	2ß Sem./	2011
+3066	PATRICIA MACAGNAN	patriciamacagnan@hotmail.com	NUT	1ß Sem./	2012
+2461	RAQUEL VALDUGA MILANI	raque.kiri@gmail.com	NUT	1ß Sem./	2011
+2745	SIMARA ROSALEM	simara.rosalem@yahoo.com.br	NUT	1ß Sem./	2012
+3108	SIMONE ALINE PUNTEL	monepuntel@yahoo.com.br	NUT	2ß Sem./	2011
+3073	TACIANE CARLA RAMPON	tacirampon@yahoo.com.br	NUT	2ß Sem./	2011
+3593	VANESSA ZANIN	nesa_zanin@yahoo.com.br	NUT	1ß Sem./	2012
+					
+					
+					
+2631	ALIANDRO JOAO CONSOLI	aliandro@alvoglobal.com.br	PUBLI	2ß Sem./	2010
+2790	ANGELITO RODRIGUES DA SILVA	angelitokaczala@gmail.com	PUBLI	2ß Sem./	2010
+3405	CAROLINA BASSO VEBER	carolinabassoveber@yahoo.com.br	PUBLI	2ß Sem./	2011
+2804	CAROLINE FARIAS DE LIMA	carolinefariaslima@hotmail.com	PUBLI	1ß Sem./	2012
+2168	CATIANE FIN	catianefin@hotmail.com	PUBLI	2ß Sem./	2011
+2176	DAIAN NODARI	daian@daiannodari.com.br	PUBLI	2ß Sem./	2011
+2898	DANIELA DE OLIVEIRA MARTINS	danioli-d@bol.com.br	PUBLI	2ß Sem./	2010
+2130	EDUARDO PELISSER FERRETTI	dudaferretti@terra.com.br	PUBLI	2ß Sem./	2010
+2902	FAB÷OLA GIROTO	fabiola.injeta@hotmail.com	PUBLI	2ß Sem./	2011
+2202	FELIPE HENRIQUE	felipe@casadopintorbg.com.br	PUBLI	2ß Sem./	2010
+2410	FERNANDO LOVAT ASSUMPÄ«O	"fernando@flasites.com.br; flasites@gmail.com"	PUBLI	2ß Sem./	2011
+2207	FRANCIELI INEZ DA SILVA	francielidasilva@yahoo.com.br	PUBLI	2ß Sem./	2010
+3082	GIOVANI MAGNAGUAGNO	giovani.ideia@gmail.com	PUBLI	2ß Sem./	2011
+2208	GISELE MOROSO	gysynha_moroso@yahoo.com.br	PUBLI	2ß Sem./	2011
+2402	ISAAC ORFEU MERLO	ikmerlo@gmail.com	PUBLI	2ß Sem./	2011
+2142	JANAINA FURLAN	janafurlan@gmail.com	PUBLI	2ß Sem./	2010
+3539	JOANA FERRO	joana_ferro@hotmail.com.br	PUBLI	1ß Sem./	2012
+2224	KAMILA GIACOMIN WEIS	kamilaweis@gmail.com	PUBLI	2ß Sem./	2011
+2807	LEANDRO PICETTI	leandropicetti@yahoo.com.br	PUBLI	2ß Sem./	2011
+3876	LET÷CIA DONIN ROSA	"leticiadonin@yahoo.com.br;"	PUBLI	1ß Sem./	2012
+3107	MARILIA JAQUELINE TEN CATEN	jake_tencaten@hotmail.com	PUBLI	2ß Sem./	2011
+2667	MATEUS CECONI FOLETTO	mcfoletto23@gmail.com	PUBLI	2ß Sem./	2011
+2139	RAFAEL DELFINO	"rafael@doserfotografia.com.br; rafadelfi29@gmail.com"	PUBLI	2ß Sem./	2011
+2802	ROSIELE STOCCO	"rosistocco@yahoo.com.br; rosi@micromazza.ind.br"	PUBLI	1ß Sem./	2011
+2404	SUZANA APARECIDA FAQUI	suzanafaqui@gmail.com	PUBLI	2ß Sem./	2011
+2269	TATIANE GARBIN	tatiane.garbin@gmail.com	PUBLI	2ß Sem./	2010
+2890	VANESSA RECH	vanesarech@gmail.com	PUBLI	2ß Sem./	2011
+2813	VICENTE LOVERA	vicente_lovera@yahoo.com.br	PUBLI	2ß Sem./	2010

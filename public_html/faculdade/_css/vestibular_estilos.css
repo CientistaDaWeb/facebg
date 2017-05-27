@@ -1,0 +1,134 @@
+#vestibular2010-3 {
+	width: 764px;
+	position: relative;
+	font: 12px Arial, Helvetica, sans-serif;
+}
+#vestibular2010-3 .chamada {
+	margin: 0px 2px 2px 0px;
+	float: left;
+	height: 153px;
+	width: 506px;
+}
+
+#vestibular2010-3 .texto-meio {
+	margin: 2px 0px 2px 2px;
+	float: left;
+	height: 151px;
+	width: 380px;
+}
+#vestibular2010-3 p {
+	margin: 10px 10px 0px;
+	line-height: 170%;
+}
+#vestibular2010-3 ul {
+	font-weight: bold;
+	color: #B82958;
+	line-height: 140%;
+	margin-bottom: 2px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+#vestibular2010-3 li {
+	list-style: square;
+}
+#vestibular2010-3 ul li a {
+	line-height: 165%;
+}
+
+
+#vestibular2010-3 .destaque  {
+	font-size: 18px;
+	font-weight: bold;
+	color: #AA2043;
+}
+#quadro1, #quadro2, #quadro3, #quadro4, #quadro5, #quadro6, #quadro7, #quadro8, #quadro9, #quadro10, #quadro11, #quadro12, #quadro13, #quadro14 {
+	margin: 2px;
+	float: left;
+}
+#vestibular2010-3 .quadro1, .quadro2, .quadro3 {
+	margin: 2px;
+	float: left;
+	height: 151px;
+	background: #f5e1a4;
+}
+#vestibular2010-3 .quadro1 {
+	width: 123px;
+}
+#vestibular2010-3 .quadro2 {
+	width: 250px;
+}
+#vestibular2010-3 .quadro3 {
+	width: 377px;
+}
+#vestibular2010-3 .quadro4 {
+	margin: 2px;
+	float: right;
+	height: 306px;
+	width: 250px;
+	background: #f5e1a4;
+}
+#vestibular2010-3 .quadro6 {
+	margin: 2px;
+	height: 301px;
+	width: 362px;
+	background: #f5e1a4;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+#vestibular2010-3 .quadro-contato {
+	margin: 2px;
+	height: 306px;
+	width: 367px;
+	padding-left:10px;
+	background: #FFF;
+}
+#vestibular2010-3 .rodape {
+	margin: 2px;
+	float: left;
+	width: 739px;
+	background: #B82958;
+	color: #FFF;
+	padding: 10px;
+}
+#vestibular2010-3 #assinatura {
+	float: right;
+	width: 380px;
+	text-align: right;
+	font-size: 11px;
+	margin-bottom: 10px;
+}
+#vestibular2010-3 #assinatura a {
+	color: #FC0;
+	font-size: 13px;
+}
+#vestibular2010-3 .ae {
+	float: right;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#vestibular2010-3 a   {
+	font-size: 16px;
+	font-weight: bold;
+	color: #AA2043;
+	text-decoration: none;
+}
+#vestibular2010-3 a:hover {
+	color: #B82958;
+	text-decoration: underline;
+}
+
+#vestibular2010-3 .link-insc   {
+	color: #009;
+	text-decoration: none;
+	font-size: 18px;
+}
+#vestibular2010-3 .link-insc:hover {
+	text-decoration: underline;
+	color: #00C;
+}
+#vestibular2010-3 .inpute{
+	width: 340px;
+	font: 11px Verdana, Tahoma, sans-serif;
+}
+

@@ -1,0 +1,508 @@
+/* Definições Gerais */ * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(_img/bg_body_common.jpg) top left repeat;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+h1 {
+    width: 107px;
+    height: 155px;
+    line-height: 0;
+    font-size: 0;
+    background: url(_img/logo.png);
+    margin: 0 auto;
+}
+h2 {
+    font-size: 180%;
+    padding: 5px 0;
+    padding-left: 40px;
+    color:#FFF;
+}
+.titulo{
+    -moz-border-radius: 0 5px;
+    -webkit-border-radius: 0 5px;
+    margin-bottom: 5px;
+    clear: both;
+    padding: 5px;
+    background: url(_img/bg_titulo.jpg) no-repeat;
+}
+
+
+h3 {
+    font-size: 140%;
+    color: #0952AE;
+    margin-top: 8px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+}
+
+h4 {
+    margin: 8px 0 5px;
+    font-size: 110%;
+    color: #666;
+}
+
+p {
+    line-height: 150%;
+    margin: 3px 0px 6px;
+}
+
+a {
+    text-decoration: none;
+    color: #084694;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    list-style: none;
+}
+
+ol {
+    list-style: circle;
+}
+
+ol li {
+    margin-left: 30px;
+    list-style: upper-alpha;
+}
+
+label {
+    font-weight: bold;
+    margin: 5px 0;
+    display: block;
+}
+
+label.error {
+    font-size: 90%;
+    font-style: italic;
+    color: #900;
+    font-weight: normal;
+    margin: 0;
+    display: block;
+}
+
+button {
+    border: 1px solid #0952AE;
+    color: #0952AE;
+    padding: 0 5px;
+    margin-top: 10px;
+    background: #FFF;
+}
+
+/* Definições de Classe */
+.box-texto {
+    padding: 15px;
+    margin-bottom: 4px;
+    -moz-border-radius: 0 5px;
+    -webkit-border-radius: 0 5px;
+    text-align: justify;
+}
+.box {
+    padding: 5px;
+    overflow: hidden;
+    margin-bottom: 4px;
+    -moz-border-radius: 0 5px;
+    -webkit-border-radius: 0 5px;
+}
+.box-divisao{
+    width: 720px;
+    float: left;
+    display: inline;
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid #606CA8;
+    background: url(_img/bg_azul.png) top left repeat;
+    color: #FFF;
+    -moz-border-radius: 0 5px;
+    -webkit-border-radius: 0 5px;
+}
+.box-divisao.destaque{
+    background: #eccd21;
+}
+.box-interna{
+    padding: 5px;
+    border: 1px solid #C6BC00;
+    background: url(_img/bg_amarelo.png) top left repeat;
+    -moz-border-radius: 0 5px;
+    -webkit-border-radius: 0 5px;
+    margin-bottom: 10px;
+}
+label{
+    color: #0952AE;
+}
+.inpute {
+    border: 1px solid #606CA8;
+    padding: 2px;
+    color: #606CA8;
+    width: 450px;
+
+}
+.inpute:focus {
+    border-color: #084694;
+    color: #084694;
+}
+
+/* Definições da Estrutura */
+#div_site {
+    width: 966px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-right: 4px;
+}
+
+#div_menunav {
+    width: 200px;
+    float: left;
+    padding: 10px 0;
+    margin-right: 3px;
+}
+
+#div_menunav #marcador {
+    margin: 10px 0;
+}
+
+#div_menunav li a {
+    display: block;
+    padding: 5px 10px;
+    margin: 3px 2px;
+    text-decoration: none;
+}
+
+#banners_laterais {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#banners_laterais object {
+    margin: 3px 0;
+}
+
+#banners_laterais a{
+    margin: 30px 0;
+    display: block;
+}
+
+#swf_topo {
+    background: #FFF;
+    width: 763px;
+    height: 280px;
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+
+#div_content {
+    float: left;
+    display: inline;
+    width: 763px;
+    overflow: hidden;
+}
+
+/* Cnec Virtual */
+#div_cnecvirtual {
+    overflow: hidden;
+    margin: 5px 0px 7px;
+}
+
+#div_cnecvirtual h2 {
+    float: left;
+    font-size: 140%;
+    display: inline;
+    margin: 16px 12px 16px 8px;
+    padding: 10px 18px;
+}
+
+#div_cnecvirtual fieldset {
+    width: 250px;
+    float: left;
+    display: inline;
+    border: 0;
+    margin-right: 10px;
+    overflow: hidden;
+}
+
+#div_cnecvirtual fieldset input {
+    border: 0;
+    padding: 3px 2px;
+    clear: both;
+    width: 240px;
+}
+
+#div_cnecvirtual #bt_cnecvirtual {
+    padding: 5px;
+    border: 0;
+    margin-top: 20px;
+}
+
+
+#div_cnecvirtual #permanecer_logado label {
+    float: left;
+}
+
+#div_cnecvirtual #permanecer_logado input {
+    margin-right: 5px;
+    display: inline;
+}
+
+/* Definições das Notícias da Capa */
+#div_noticias {
+    width: 385px;
+    float: left;
+    display: inline;
+}
+.noticia {
+    overflow: hidden;
+    padding: 5px;
+    margin: 5px 0;
+    height: 120px;
+}
+.noticia img{
+    float: left;
+    margin-right: 5px;
+}
+.noticia h3 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+/* Deficições dos Avisos da capa */
+#div_avisos{
+    width: 358px;
+    float:left;
+    display: inline;
+    margin-left: 10px;
+}
+#avisos {
+    border: 5px solid #cc9859;
+    background: #438082;
+    color: #FFF;
+    padding: 5px;
+}
+
+#avisos span.data {
+    font-size: 80%;
+    font-weight: normal;
+}
+
+#avisos .aviso {
+    clear: both;
+    overflow: hidden;
+    border-bottom: 1px dotted #FFF;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+#avisos .aviso h3{
+    color: #FFF;
+}
+#avisos .aviso a {
+    color: #FFF;
+    text-align: right;
+}
+#avisos label.error{
+    color: #FFF;
+}
+
+/* Definição da Instituição da Capa */
+#div_instituicao {
+    overflow: hidden;
+    text-align: justify;
+}
+
+#div_instituicao img {
+    float: left;
+    display: inline;
+    margin-right: 5px;
+}
+#div_instituicao .box-divisao{
+    width: 407px;
+    margin: 0;
+}
+
+/* Definição da notícia - Interna */
+#noticia {
+    overflow: hidden;
+    text-align: justify;
+    background: url(_img/bg_amarelo.png) top left repeat;
+
+}
+
+#noticia .data {
+    font-size: 80%;
+    color: #2962B1;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+
+#noticia .thumb {
+    margin: 0 10px;
+    float: left;
+}
+
+#noticia h3 {
+    color: #2962b1;
+    margin-bottom: 10px;
+}
+
+#noticia h4 {
+    color: #e57716;
+    margin-bottom: 10px;
+    font-size: 90%;
+}
+
+#galeria-fotos {
+    width: 140px;
+    padding-top: 5px;
+    display: inline;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+
+#galeria-fotos h2 {
+    font-size: 90%;
+}
+
+#galeria-fotos a {
+    float: left;
+    display: inline;
+    border: 0;
+}
+
+#galeria-fotos img {
+    border: 1px solid #FFF;
+}
+
+#lista-noticias {
+    overflow: hidden;
+    padding: 5px 0;
+    clear: both;
+}
+#lista-noticias .noticia{
+    width: 361px;
+    float: left;
+    display: inline;
+    margin:2px 3px 3px 2px;
+}
+.paginacao {
+    text-align: center;
+}
+.instrucoes{
+    font-size: 70%;
+    text-align: right;
+    margin: 10px 0;
+    font-style: italic;
+}
+.arquivos a{
+    display: block;
+    background: url(_img/pdf.png) center left no-repeat;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    padding-left:20px;
+}
+/* Definição do rodapé */
+#footer {
+    text-align: center;
+    margin-top: 10px;
+}
+
+address {
+    text-align: center;
+    clear: both;
+    padding: 10px 0;
+    font-style: normal;
+    font-size:80%;
+}
+#FabianoDamo{
+    color: #FFF;
+    font-size:80%;
+    clear: both;
+    margin-top: 5px;
+}
+#FabianoDamo a{
+    color:#FFF;
+}
+#assinaturaWS{
+    height: 40px;
+    width: 150px;
+    clear: both;
+    display: block;
+    z-index: 90000000;
+    float: right;
+}
+#assinaturaWS a{
+    text-indent: -9000px;
+    background: url(images/assinatura.png) top right no-repeat;
+    width: 45px;
+    height: 40px;
+    display: block;
+    float: right;
+}
+#assinaturaWS a:hover{
+    background-position: bottom right;
+    width: 150px;
+}
+#banner-topo{
+    width: 765px;
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+}
+#setores{
+    margin-left: 5px;
+    position: absolute;
+    z-index: 99999;
+}
+#setores a{
+    background: #FFF;
+    padding: 5px;
+    text-decoration: none;
+    display: block;
+    margin-right: 10px;
+    float: left;
+    display: inline;
+}
+.margem-b{margin-bottom: 10px;}
+.margem-t{margin-top: 10px;}
+.margem-l{margin-left: 10px;}
+.margem-r{margin-right: 10px;}
+hr{
+    height: 0px;
+    border: 0;
+    border-bottom: 1px solid #606CA8;
+    display: block;
+}
+.table-listagem{
+    width: 100%;
+    border-collapse: collapse;
+}
+.table-listagem thead th{
+    text-align: center;
+}
+.table-listagem tbody th{
+    text-align: left;
+    padding: 5px;
+    border-bottom: 1px solid #CCC;
+}
+.table-listagem tbody td{
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid #CCC;
+}
+.box-divisao ul, .box-texto ul{
+    margin-bottom: 10px;
+}
+.box-divisao li, .box-texto li{
+    list-style: circle;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}

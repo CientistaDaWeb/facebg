@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'Inscrição Vestibular');$_SESSION['aberto'] = true;

@@ -1,0 +1,1 @@
+<?php$smarty->assign('title', 'Nivelamento Acadêmico - EAD');$smarty->display('nivelamento.tpl');
